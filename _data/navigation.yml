@@ -1,0 +1,40 @@
+# main navbar
+main:
+  - title: "News"
+    url: /news/
+  - title: "Research"
+    url: /research/
+  - title: "Team"
+    url: /team/
+  - title: "Publications"
+    url: /publications/
+
+# research sidebar
+research:
+  - title: "Research Overview"
+    url: /research/
+  - title: "Areas of Interest"
+    children:
+      - title: "Protoplanetary Disks"
+        url: /research/protoplanetary-disks/
+      - title: "Planet Formation"
+        url: /research/planet-formation/
+      - title: "Defects in MaterialsPlanetary Dynamics"
+        url: /research/planetary-dynamics/   
+
+  - title: "Software Development"
+    children:
+      - title: "Athena++"
+        url: https://www.athena-astro.app/
+      - title: "Pencil Code"
+        url: http://pencil-code.nordita.org/
+
+# publications sidebar
+publications:
+  - title: "Publications"
+    url: /publications/
+  - title: "Papers"
+    url: /publications/papers/2021/
+    children:
+      - title: "2021"
+        url: /publications/papers/2021/
