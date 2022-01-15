@@ -1,7 +1,7 @@
 # UNLV Star & Planet Group Homepage
 
 ## Viewing Site Locally
-You can [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this [repo](https://docs.github.com/en/repositories) and build the [GitHub Pages](https://lab.github.com/githubtraining/github-pages) site locally to preview and test any changes, as it can take up to 20 minutes to publish [commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) to the site after [pushing](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github) to [GitHub](https://lab.github.com/githubtraining/introduction-to-github?overlay=register-box-overlay).
+[Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the [`dev` branch](https://github.com/UNLV-SPG/UNLV-SPG.github.io/tree/dev) of this [repo](https://docs.github.com/en/repositories) and build the [GitHub Pages](https://lab.github.com/githubtraining/github-pages) site locally to preview and test any changes.
 
 ### Prerequisites
 - [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
