@@ -1,12 +1,12 @@
 ---
 title: "Xiao Hu"
-excerpt: "Past Member"
+excerpt: "Alum"
 header:
   teaser: /assets/images/team/xiao-hu.jpg
 sidebar:
   - title: "Position"
     image: /assets/images/team/xiao-hu.jpg
-    text: "Past Member"
+    text: "Alum"
   - title: "Research Interests"
     text: "<ul>
     <li> Protoplanetary Disks
