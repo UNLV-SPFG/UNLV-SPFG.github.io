@@ -45,7 +45,7 @@ search_provider          : lunr # lunr (default) for GitHub Pages
 # Site Author
 author:
   name                   : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar                 : "/assets/images/team/logo.jpg"
+  avatar                 : "/assets/images/logo.png"
   bio                    : "Star & Planet Group, Department of Physics & Astronomy, University of Nevada, Las Vegas."
   location               : "Las Vegas, NV, USA"
   links:
@@ -132,12 +132,6 @@ collections:
   team:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  courses:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Front Matter Defaults
@@ -160,7 +154,7 @@ defaults:
     values:
       layout: single
       header:
-        overlay_color: "#333"
+        overlay_color: "#666"
   # _research
   - scope:
       path: "_research"
@@ -168,7 +162,7 @@ defaults:
     values:
       layout: single
       header:
-        overlay_color: "#333"
+        overlay_color: "#666"
       excerpt: ""
       share: true
       sidebar:
@@ -182,33 +176,9 @@ defaults:
     values:
       layout: single
       header:
-        overlay_color: "#333"
+        overlay_color: "#666"
       excerpt: ""
       share: true
-  # _publications
-  - scope:
-      path: "_publications"
-      type: publications
-    values:
-      layout: single
-      header:
-        overlay_color: "#333"
-      share: true
-      sidebar:
-        nav: "publications"
-  # # _courses
-  # - scope:
-  #     path: "_courses"
-  #     type: courses
-  #   values:
-  #     layout: single
-  #     header:
-  #       overlay_color: "#333"
-  #     share: true
-  #     sidebar:
-  #       nav: "courses"
-  #     toc: true
-  #     toc_sticky: true
 
 
 # Archive Settings (GitHub Pages)
@@ -224,7 +194,6 @@ tag_archive:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /news/page:num/
-# paginate_path: /publications/peer-reviewed/page:num/ # more than one?
 timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 github: [metadata]
 
