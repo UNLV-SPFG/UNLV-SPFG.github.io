@@ -1,5 +1,5 @@
 ---
-title: "Chao-Chin Yang"
+title: "Chao-Chin Yang (楊朝欽)"
 excerpt: "Principal Investigator"
 header:
   teaser: /assets/images/team/chao-chin-yang.jpg
