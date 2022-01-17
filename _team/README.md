@@ -23,7 +23,7 @@ sidebar:
 ---
 ```
 ### Key Legend
-- `title:` Your name (wrapped in double quotes) to be displayed in the team directory and on the top header of your profile page, e.g., `"Edwin P. Hubble"`; matching your Markdown filename is **not** required (e.g., can include a middle initial and non-Latin characters).
+- `title:` Your name (wrapped in double quotes) to be displayed in the team directory and on the top header of your profile page, e.g., `"Edwin P. Hubble"`; matching your Markdown filename is **not required** (e.g., can include a middle initial and non-Latin characters).
 - `excerpt:` Your position (wrapped in double quotes) as one of the following _fixed_ values:
   - `"Principal Investigator"`
   - `"Postdoctoral Scholar"`
@@ -36,7 +36,7 @@ sidebar:
   - `image:` The same path to your profile image to appear on your profile sidebar; see `header:`, `teaser:` above for the standard path and image format.
   - `text:` Your position (wrapped in double quotes); see `excerpt:` above for valid fixed values.
   - `title: "Research Interests"` (Optional) To be included on your profile sidebar.
-  - `text: "<ul>` (HTML for _**u**nnumbered **l**ist_) List each item on a separate line prepended with `<li> ` (HTML for _**l**ist **i**tem_, ensuring a single empty space before your text); best to keep to a maximum of 2-3 words and must include a double quote (`"`) after the final item; see [example above](#Front-Matter)
+  - `text: "<ul>` (HTML for _**u**nnumbered **l**ist_) (Optional) List each item on a separate line prepended with `<li> ` (HTML for _**l**ist **i**tem_, ensuring a single empty space before your text); best to keep to a maximum of 2-3 words and must include a double quote (`"`) after the final item; see [example above](#Front-Matter).
 
 
 ## Main Content (Markdown)
