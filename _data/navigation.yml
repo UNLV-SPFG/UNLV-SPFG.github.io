@@ -7,7 +7,7 @@ main:
   - title: "Team"
     url: /team/
   - title: "Publications"
-    url: /publications/
+    url: https://ui.adsabs.harvard.edu/
 
 # research sidebar
 research:
@@ -19,7 +19,7 @@ research:
         url: /research/protoplanetary-disks/
       - title: "Planet Formation"
         url: /research/planet-formation/
-      - title: "Defects in MaterialsPlanetary Dynamics"
+      - title: "Planetary Dynamics"
         url: /research/planetary-dynamics/   
 
   - title: "Software Development"
@@ -28,13 +28,3 @@ research:
         url: https://www.athena-astro.app/
       - title: "Pencil Code"
         url: http://pencil-code.nordita.org/
-
-# publications sidebar
-publications:
-  - title: "Publications"
-    url: /publications/
-  - title: "Papers"
-    url: /publications/papers/2021/
-    children:
-      - title: "2021"
-        url: /publications/papers/2021/
