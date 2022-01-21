@@ -28,7 +28,7 @@ favicon                  : "/assets/images/favicon.ico"
 masthead_title           : "SPG | UNLV"
 breadcrumbs              : true # false (default)
 words_per_minute         : 200
-github_username          : UNLV-SPG
+github_username          : UNLV-SPFG
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default) for GitHub Pages
@@ -54,7 +54,7 @@ author:
     #   url                : "https://scholar.google.com/citations?user=1vO0eS0AAAAJ&hl=en"
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
-      url                : "https://github.com/UNLV-SPG"
+      url                : "https://github.com/UNLV-SPFG"
     # - label              : " Email"
     #   icon               : "fas fa-envelope"
     #   url                : "mailto:x.x@unlv.edu"
@@ -65,7 +65,7 @@ footer:
   links:
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
-      url                : "https://github.com/UNLV-SPG"
+      url                : "https://github.com/UNLV-SPFG"
 
 
 # Reading Files

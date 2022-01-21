@@ -1,5 +1,5 @@
 # News Posts
-This folder contains [Markdown](https://www.markdownguide.org/) files for individual posts populating the [**News**](https://unlv-spg.github.io/news/) page.
+This folder contains [Markdown](https://www.markdownguide.org/) files for individual posts populating the [**News**](https://unlv-spfg.github.io/news/) page.
 To create a new post, we recommend copying an existing post as close to the formatting, structure, or features you want and renaming it in the following *hyphenated* format: `YYYY-MM-DD-key-words.md`.
 
 Note:
@@ -25,10 +25,10 @@ tags:
 ---
 ```
 ### Key Legend
-- `title:` The title (wrapped in double quotes) to be displayed in the [News list](http://unlv-spg.github.io/news/), at the top of the post's page itself, and in any relevant search results.
+- `title:` The title (wrapped in double quotes) to be displayed in the [News list](http://unlv-spfg.github.io/news/), at the top of the post's page itself, and in any relevant search results.
 - `last_modified_at:` (Optional) The date and time of last modification, formatted as `YYYY-MM-DDTHH:MM:SS-HH:MM`, where the times following `T` is the 24-hour UTC time $\pm$ the [offset](https://en.wikipedia.org/wiki/UTC_offset) (e.g., `-08:00` for PST)
-- `categories:` A single term (e.g., `Publications` or `Press`) to categorize your post; see [Posts by Category](http://unlv-spg.github.io/categories/) for an existing list.
-- `tags:` Multiple, unlimited entries (each on a separate line) to identify relevant keywords or topics and relate to other tagged posts; see [Posts by Tag](http://unlv-spg.github.io/tags/) for an existing list.
+- `categories:` A single term (e.g., `Publications` or `Press`) to categorize your post; see [Posts by Category](http://unlv-spfg.github.io/categories/) for an existing list.
+- `tags:` Multiple, unlimited entries (each on a separate line) to identify relevant keywords or topics and relate to other tagged posts; see [Posts by Tag](http://unlv-spfg.github.io/tags/) for an existing list.
 - `[other]:` Posts support additional front matter flags (options) for various features and scenarios; see the Jekyll's documentation on [Posts](https://jekyllrb.com/docs/posts/), and this extensive list of *rendered* [Sample Posts](https://mmistakes.github.io/minimal-mistakes/year-archive/) and their corresponding [raw Markdown files](https://github.com/mmistakes/minimal-mistakes/tree/gh-pages-3.1.6/_posts), for more information.
 
 
