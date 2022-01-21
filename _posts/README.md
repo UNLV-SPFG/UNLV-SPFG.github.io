@@ -35,6 +35,7 @@ tags:
 ## Main Content (Markdown)
 Jekyll will render your post from any [**Markdown**](https://www.markdownguide.org/) you supply below the [front matter](#Front-Matter) section.
 Specifically, our site supports [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/) input, which includes some extensions beyond the standard Markdown specification, notably [_fenced code blocks_](https://github.github.com/gfm/#fenced-code-blocks).
-For a GFM reference and more information on Markdown formatting and features, see [Writing on GitHub](https://docs.github.com/en/github/writing-on-github).
 
-For additional post ideas and examples, see this extensive list of *rendered* [Sample Posts](https://mmistakes.github.io/minimal-mistakes/year-archive/) and their corresponding [raw Markdown files](https://github.com/mmistakes/minimal-mistakes/tree/gh-pages-3.1.6/_posts).
+- For a GFM reference and more information on Markdown formatting and features, see [Writing on GitHub](https://docs.github.com/en/github/writing-on-github).
+- For additional post ideas and examples, see this extensive list of *rendered* [Sample Posts](https://mmistakes.github.io/minimal-mistakes/year-archive/) and their corresponding [raw Markdown files](https://github.com/mmistakes/minimal-mistakes/tree/gh-pages-3.1.6/_posts).
+- See also [GitHub Learning Lab's](https://lab.github.com/), 10 step, 45 min course on [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown).
