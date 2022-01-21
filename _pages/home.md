@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Star & Planet Group"
+title: "Star & Planet Formation Group"
 permalink: /
 hidden: true
 header:

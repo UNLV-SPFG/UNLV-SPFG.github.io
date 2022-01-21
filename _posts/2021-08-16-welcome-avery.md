@@ -1,5 +1,5 @@
 ---
-title: "UNLV SPG Welcomes Avery Bailey"
+title: "Welcome, Avery Bailey"
 date: 2021-08-16T08:00:00
 categories:
   - Welcome
