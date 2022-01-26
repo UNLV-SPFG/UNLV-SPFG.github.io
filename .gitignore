@@ -4,3 +4,5 @@ _site
 Gemfile.lock
 *.code-workspace
 *.Identifier
+.bundle/
+vendor/
