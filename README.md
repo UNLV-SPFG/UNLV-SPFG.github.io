@@ -5,23 +5,29 @@ You can [clone](https://docs.github.com/en/repositories/creating-and-managing-re
 
 ### Prerequisites
 - [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
-- [Jekyll](https://jekyllrb.com/docs/installation/) (`$ gem install jekyll`)
-- [Bundler](https://bundler.io/) (`$ gem install bundler`)
+- [Jekyll](https://jekyllrb.com/docs/installation/) (`gem install jekyll`)
+- [Bundler](https://bundler.io/) (`gem install bundler`)
+
+#### Jekyll on macOS
+1. macOS users should first follow [Jekyll's detailed documentation](https://jekyllrb.com/docs/installation/macos/) to ensure proper installation of Ruby.
+2. If Bundler was previously installed under a different instance of Ruby, delete it with `gem uninstall bundler`.
+3. Reinstall Bundler following the [Local Install subsection](https://jekyllrb.com/docs/installation/macos/#local-install); if you have issues with [Nokogiri](https://nokogiri.org/), try `gem uninstall nokogiri` before installing Bundler (it will fetch the correct version of Nokogiri).
 
 Once the prerequisites have been installed, run the following command in the root of your cloned repo:
 
-`$ bundle install`
+`bundle install`
 
 ### Build
 [Jekyll](https://jekyllrb.com/) is a static site generator, so we need it to build the site before we can view it.
 You can run the following command in the root of your local repo to both build and serve it locally:
 
-`$ bundle exec jekyll serve`
+`bundle exec jekyll serve`
 
 This will run a local web server that you can view at `http://localhost:4000` with your browser.
 
 ## Making Changes
 - To [contribute to the website](https://docs.github.com/en/get-started/quickstart/contributing-to-projects), you must first [fork](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) this repo, then [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) changes to your fork (see subsection topics below), before [making a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) (see our [GitHub wiki guide](https://github.com/UNLV-SPG/technical-resources/wiki/Getting-Started#github) for basic information and additional resources).
+- Periodically, and especially before you start making any local changes (to avoid [merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)), we recommend synchronizing your branch to fetch the latest changes made to this main repo (the _upstream_ branch to your personal fork); see [Syncing your branch](https://github.com/UNLV-SPFG/technical-resources/wiki/Getting-Started#syncing-your-branch) on [our wiki](https://github.com/UNLV-SPFG/technical-resources/wiki) or [Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) at [GitHub Docs](https://docs.github.com/).
 - You should make and verify (by [viewing locally](#Viewing-Site-Locally)) changes to the [`dev`](/tree/dev) [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) of __*your*__ fork and [make a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) _from_ your **head repository: username/UNLV-SPG.github.io, compare: dev** _to_ our **base repository: UNLV-SPG/UNLV-SPG.github.io, base: dev** (see [Creating a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for more information).
 - If you're new to Jekyll, we strongly recommend following their < 30-minute [Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) to understand its core structure and basics.
 - For theme _independent_ changes to the site's __content__ or __structure__, see Jekyll's [Docs](https://jekyllrb.com/docs/) by relevant topic.
