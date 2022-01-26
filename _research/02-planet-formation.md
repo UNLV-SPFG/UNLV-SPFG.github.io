@@ -20,7 +20,7 @@ permalink: /research/planet-formation/
 
 # Formation of Giant Planets
 
-- (*Avery*)
+- (*Zhaohuan*; *Avery*)
 
 # Formation of Planetary Systems
 
