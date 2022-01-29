@@ -3,9 +3,10 @@ title: "Protoplanetary Disks"
 permalink: /research/protoplanetary-disks/
 ---
 # Introduction
+
 Stars form from the collapse of dense molecular cloud cores. Due to the angular momentum conservation, any slight initial perturbation of the molecular cloud core leads to a disk structure around the protostar.
 
-{% include figure image_path="/assets/images/materials-informatics/starformation.jpeg" caption="**Figure 1.** Machine learning potentials compared to the traditional quantum mechanical simulation" %}
+{% include figure image_path="/assets/images/materials-informatics/starformation.jpeg" caption="**Figure 1.** Diagram showing the formation of a star and planetary system from a protostellar nebula. Image Credit: Tom Greene (2001)" %}
 
 ## Relevant works
 1. Yanxon H., Zagaceta D., Wood B.C., **Zhu Q.** (2020).
