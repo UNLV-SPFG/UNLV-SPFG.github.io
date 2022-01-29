@@ -9,19 +9,17 @@ We now know that almost every star has a planet and our Earth, or even life, may
 {% include figure image_path="/assets/images/materials-informatics/starformation.jpeg" caption="**Figure 1.** Diagram showing the formation of a star and planetary system from a protostellar nebula. Image Credit: Tom Greene (2001)" %}
 
 # Disk Accretion
+(Zhu)
 
 # Planet-disk Interaction
+(Zhu)
 
 # Circumbinary Disks
+(Rebecca)
 
 # ...
 
-##  Relevant works from the group
-1. Zhange et al. (2018) __[DSHARP). VII](https://ui.adsabs.harvard.edu/abs/2018ApJ...869L..47Z/abstract)__
-
-1. Zagaceta D., Yanxon H., **Zhu Q.** (2020).
-__[Spectral Neural Network Potentials for Binary Alloys](https://aip.scitation.org/doi/10.1063/5.0013208)__.
-J. Appl. Phys., 128, 045113. (Open Access: [PDF](https://aip.scitation.org/doi/pdf/10.1063/5.0013208%40jap.2020.MLMD2020.issue-1))
-
-1. Yanxon H., Zagaceta D., Tang B., Matteson D., Zhu Q. (2020).
-__[PyXtal FF: a Python Library for Automated Force Field Generation](https://arxiv.org/abs/2007.13012)__. (Open Access: [PDF](https://arxiv.org/pdf/2007.13012.pdf))
+##  Highlights from the group
+1. Zhu \& Stone (2018)__[Global Evolution of an Accretion Disk with a Net Vertical Field](https://ui.adsabs.harvard.edu/abs/2018ApJ...857...34Z/abstract)__
+2. Zhange et al. (2018) __[DSHARP VII](https://ui.adsabs.harvard.edu/abs/2018ApJ...869L..47Z/abstract)__
+3. 
