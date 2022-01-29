@@ -15,6 +15,14 @@ sidebar:
 ---
 
 Zhaohuan Zhu (朱照寰) is an Associate Professor in the Department of Physics and Astronomy at the University of Nevada, Las Vegas.
-He joined UNLV in 2016 and was awarded a [Sloan Research Fellowship](https://sloan.org/fellowships) in 2017.
-He received an Astronomy & Astrophysics B.S. and Applied Mathematics B.S., from Peking University in 2005, and an Astronomy Ph.D., from the University of Michigan—Ann Arbor in 2011.
-He was a Postdoctoral Researcher, from 2011–2013, and Hubble Fellow, from 2013–2016, at Princeton University.
+He joined UNLV in 2016 and was awarded a [Sloan Research Fellowship](https://sloan.org/fellowships) in 2017. Please visit his 
+      [personal website](https://www.physics.unlv.edu/~zhzhu/Home.html) for more information.
+      
+## Biography
+- __2020–present__ - Associate Professor, University of Nevada, Las Vegas
+- __2016–2020__ - Assistant Professor, University of Nevada, Las Vegas
+- __2011–2016__ - Postdoctoral Fellow and Hubble Fellow, Princeton University
+- __2005-2011__ - Ph.D., University of Michigan-Ann Arbor
+- __2003-2005__ - B.S. Applied Mathematics, Peking University
+- __2001-2005__ - B.S. Astronomy & Astrophysics, Peking University
+      
