@@ -8,11 +8,11 @@ We now know that almost every star has a planet and our Earth, or even life, may
 
 {% include figure image_path="/assets/images/materials-informatics/starformation.jpeg" caption="**Figure 1.** Diagram showing the formation of a star and planetary system from a protostellar nebula. Image Credit: Tom Greene (2001)" %}
 
-# Disk Accretion
-(Zhu)
+# Protoplanetary Disk Accretion and Structure
+Protoplanetary disks are important for both star and planet formation. The star can grow its mass by accreting the disk material, and planets are directly born in this disk. We study hydrodynamical, magnetohydrodynamical and radiation processes in this disk through direct numerical simulations.
 
 # Planet-disk Interaction
-(Zhu)
+When young planets emerge in the protoplanetary disk, they will interact with the disk. This interaction is important for planet evolution and planet detection. Due to the interaction, the planet can continue to grow its mass (moons can also form around the planet) and migrate in the disk. The interaction can also produce observable signatures such as spiral arms and gaps in protoplanetary disks, which provide the observational signatures of young planets in protoplanetary disks.
 
 # Circumbinary Disks
 (Rebecca)
