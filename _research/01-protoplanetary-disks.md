@@ -4,13 +4,20 @@ permalink: /research/protoplanetary-disks/
 ---
 # Introduction
 
-Stars form from the collapse of dense molecular cloud cores. Due to the angular momentum conservation, any slight initial perturbation of the molecular cloud core leads to a disk structure around the protostar.
+We now know that almost every star has a planet and our Earth, or even life, may not be special in the universe. We want to understand how our Earth and other Earth-like planets formed billions of years ago. Although the planetary nursery, or protoplanetary disk, is long gone in our own Solar System, similar planetary nurseries still exist in other young stellar systems in the universe. Unfortunately, these systems are difficult to study since they are faint and far away. Only within the past several years telescopes with two orders of magnitude boost in both resolution and sensitivity become a reality and we can resolve the planetary construction zone in these disks for the first time. A large amount of observational data has poured in recently, but little information can be extracted from these data without detailed theoretical modeling. We are constructing theoretical models to compare with these observations, with the final goal of understanding the planet formation process.
 
 {% include figure image_path="/assets/images/materials-informatics/starformation.jpeg" caption="**Figure 1.** Diagram showing the formation of a star and planetary system from a protostellar nebula. Image Credit: Tom Greene (2001)" %}
 
-## Relevant works
-1. Yanxon H., Zagaceta D., Wood B.C., **Zhu Q.** (2020).
-__[Neural Networks Potential from the Bispectrum Component: A Case Study on Crystalline Silicon](https://doi.org/10.1063/5.0014677)__. (Open Access: [PDF](https://arxiv.org/pdf/2001.00972.pdf))
+# Disk Accretion
+
+# Planet-disk Interaction
+
+# Circumbinary Disks
+
+# ...
+
+##  Relevant works from the group
+1. Zhange et al. (2018) __[DSHARP). VII](https://ui.adsabs.harvard.edu/abs/2018ApJ...869L..47Z/abstract)__
 
 1. Zagaceta D., Yanxon H., **Zhu Q.** (2020).
 __[Spectral Neural Network Potentials for Binary Alloys](https://aip.scitation.org/doi/10.1063/5.0013208)__.
