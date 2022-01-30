@@ -13,7 +13,7 @@ You can [clone](https://docs.github.com/en/repositories/creating-and-managing-re
 2. If Bundler was previously installed under a different instance of Ruby, delete it with `gem uninstall bundler`.
 3. Reinstall Bundler following the [Local Install subsection](https://jekyllrb.com/docs/installation/macos/#local-install); if you have issues with [Nokogiri](https://nokogiri.org/), try `gem uninstall nokogiri` before installing Bundler (it will fetch the correct version of Nokogiri).
 
-Once the prerequisites have been installed, run the following command in the root of your cloned repo:
+Once the prerequisites have been installed, run the following command **in the root of your cloned repo** (`.../UNLV-SPFG.github.io/`):
 
 `bundle install`
 
