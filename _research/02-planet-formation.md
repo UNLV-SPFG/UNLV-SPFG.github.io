@@ -26,7 +26,7 @@ We highlight in the following what we have been working on.
 
 - MHD Turbulence (*Chao-Chin*)
 
-- Gravito-turbulence
+## Gravito-turbulence
 
 Due to significant mass infall from the envelope, young protoplanetary disks can be massive enough to form observable self-gravitating features in the form of spirals and fragments. These features can significantly concentrate dust enough to produce bound solid objects which serve as the precursors to planets. Hans Baehr studies the properties of these disks using hydrodynamic codes, such as the <a href="pencil-code.nordita.org">Pencil code</a> and <a href="https://www.athena-astro.app">Athena++</a>.
 
