@@ -21,5 +21,5 @@ When young planets emerge in the protoplanetary disk, they will interact with th
 
 ##  Highlights from the group
 1. Zhu & Stone (2018)__[Global Evolution of an Accretion Disk with a Net Vertical Field](https://ui.adsabs.harvard.edu/abs/2018ApJ...857...34Z/abstract)__
-2. Zhange et al. (2018) __[DSHARP VII](https://ui.adsabs.harvard.edu/abs/2018ApJ...869L..47Z/abstract)__
+2. Zhang et al. (2018) __[DSHARP VII](https://ui.adsabs.harvard.edu/abs/2018ApJ...869L..47Z/abstract)__
 3. 

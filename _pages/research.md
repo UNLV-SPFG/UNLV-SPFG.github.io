@@ -16,6 +16,7 @@ We develop and apply theoretical and numerical models to investigate protostella
 In addition to designing and employing large-scale numerical MHD simulations to understand dynamical processes, and Monte-Carlo radiative transfer simulations to compare with observations, we develop and contribute to widely-used, open-source astrophysical codes.
 - [Athena++](https://www.athena-astro.app/){:target="_blank"}: GRMHD code with adaptive mesh refinement (AMR) framework
 - [Pencil Code](http://pencil-code.nordita.org/){:target="_blank"}: high-order finite-difference code for compressible hydrodynamic flows with magnetic fields
+- [PGNet](https://github.com/zhangsj96/PGNets){:target="_blank"}: a convolutional neural network to infer planet masses from protoplanetary disk's gaps in ALMA observations.
 
 ## Funding
 We acknowledge the following funding agencies for their generous support:
