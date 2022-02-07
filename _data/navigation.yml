@@ -26,5 +26,15 @@ research:
     children:
       - title: "Athena++"
         url: https://www.athena-astro.app/
+      - title: "MAGRATHEA"
+        url: https://github.com/Huang-CL/Magrathea
       - title: "Pencil Code"
         url: http://pencil-code.nordita.org/
+      - title: "PGNets"
+        url: https://github.com/zhangsj96/PGNets/
+      - title: "REBOUND"
+        url: https://rebound.readthedocs.io/
+      - title: "REBOUNDx"
+        url: https://reboundx.readthedocs.io/
+      - title: "REBOUND_fragmentation"
+        url: https://github.com/ANNACRNN/REBOUND_fragmentation
