@@ -4,6 +4,4 @@ permalink: /publications/
 sidebar:
   nav: "publications"
 ---
-# [Papers](/publications/papers/2021/)
-Peer-reviewed journal articles by year.
-- [2021](/publications/papers/2021/)
+[First author papers from our group](https://ui.adsabs.harvard.edu/public-libraries/5Kk7a0RCStKxUpoedJWPPw)
