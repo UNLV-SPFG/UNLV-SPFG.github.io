@@ -12,7 +12,8 @@ sidebar:
     <li> Accretion disks
     <li> Planet formation
     <li> Astrophysical fluid dynamics
-     <li> Planetary dynamics 
+     <li> Planetary and solar system dynamics 
+      <li> Binary stars 
 ---
 
 Rebecca Martin is an Associate Professor in the Department of Physics and Astronomy at the University of Nevada, Las Vegas. She joined UNLV in 2015.  Please visit her 
