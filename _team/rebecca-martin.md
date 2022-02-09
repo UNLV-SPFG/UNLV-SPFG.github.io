@@ -10,8 +10,9 @@ sidebar:
   - title: "Research Interests"
     text: "<ul>
     <li> Accretion disks
-    <li> Planet formation
     <li> Astrophysical fluid dynamics
+    <li> Planet formation
+    <li> Binary stars
      <li> Planetary and solar system dynamics
 ---
 
