@@ -16,7 +16,7 @@ When young planets emerge in the protoplanetary disk, they will interact with th
 ## Binary companions
 Most stars are in binary star systems rather than being single stars like our Sun. Protoplanetary disks can form around each separate component of a wide binary, but also around both components of a close binary. These are known as circumbinary disks and they may also be a site for planet formation. Indeed, around 20 circumbinary planets have been found so far. Circumbinary planets are much more difficult to detect than planets that orbit around a single star. Inner and outer binary components can have a significant impact on the dynamics and evolution of a protoplanetary disk and the planets that may form in the disk. In order to explain the observed properties of exoplanets, we need to understand the impact of binary companions.
 
-{% include figure image_path="/assets/images/protoplanetary-disks/smallwood21.jpeg" caption="**Figure 2.** A circumbinary disk feeding the formation of disks around each component of the binary. Image Credit: Smallwood, Martin & Lubow (2021)" %}
+{% include figure image_path="/assets/images/protoplanetary-disks/smallwood21.png" caption="**Figure 2.** A circumbinary disk feeding the formation of disks around each component of the binary. Image Credit: Smallwood, Martin & Lubow (2021)" %}
 
 ##  Selected Publications
 
