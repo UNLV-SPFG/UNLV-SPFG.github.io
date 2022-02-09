@@ -15,7 +15,7 @@ sidebar:
     <li> Computation &amp; Theory"
 ---
 
-David R. Rice is a PhD candidate at UNLV working with the research group of Prof. Jason H. Steffen.
+David R. Rice is a PhD candidate in Astronomy at UNLV working with the research group of Prof. Jason H. Steffen.
 
 David's research centers around planet interiors and dynamics. He maintains the [MAGRATHEA](https://github.com/Huang-CL/Magrathea) planet structure code.
 
