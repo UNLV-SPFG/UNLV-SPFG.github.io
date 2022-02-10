@@ -7,6 +7,11 @@ sidebar:
   - title: "Position"
     image: /assets/images/team/alessia-franchini.jpg
     text: "Alum"
+  - title: "Research Interests"
+    text: "<ul>
+    <li> Protoplanetary disks
+    <li> Accretion disks
+    <li> Compact objects"
 ---
 
 Dr. Alessia Franchini was a Postdoctoral Scholar at UNLV for two years
