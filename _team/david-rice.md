@@ -13,6 +13,10 @@ sidebar:
     <li> Planet Interiors
     <li> Planet Dynamics
     <li> Computation &amp; Theory"
+  - title: "Links"
+    text: "<ul>
+    <li> <a href='https://www.physics.unlv.edu/~drice986/'>Personal Website</a>
+    <li> <a href='https://orcid.org/0000-0001-6009-8685'>ORCiD</a>"
 ---
 
 David R. Rice is a PhD candidate in Astronomy at UNLV working with the research group of Prof. Jason H. Steffen.
