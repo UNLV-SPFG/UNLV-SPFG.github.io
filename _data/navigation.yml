@@ -7,7 +7,7 @@ main:
   - title: "Team"
     url: /team/
   - title: "Publications"
-    url: https://ui.adsabs.harvard.edu/
+    url: /Publications/ 
 
 # research sidebar
 research:
