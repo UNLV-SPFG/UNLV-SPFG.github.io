@@ -49,4 +49,4 @@ Due to significant mass infall from the envelope, young protoplanetary disks can
 - (*Anna*)
 
 ##  Selected Publications
-1. [**Lastname**](/team/first-last/) et al. (YEAR) [Article Title](https://ui.adsabs.harvard.edu/abs/URL/abstract)
+1. [**Martin**](/team/rebecca-martin/) R. G., Lubow S. H. (2022) [Eccentric Dust-ring Formation in Kozai-Lidov Gas Disks](Eccentric Dust-ring Formation in Kozai-Lidov Gas Disks)
