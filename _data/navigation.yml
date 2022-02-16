@@ -19,8 +19,8 @@ research:
         url: /research/protoplanetary-disks/
       - title: "Planet Formation"
         url: /research/planet-formation/
-      - title: "Planetary Dynamics"
-        url: /research/planetary-dynamics/   
+      - title: "Exoplanets"
+        url: /research/exoplanets/
 
   - title: "Software Development"
     children:
