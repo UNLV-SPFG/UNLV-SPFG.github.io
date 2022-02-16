@@ -16,6 +16,7 @@ sidebar:
   - title: "Links"
     text: "<ul>
     <li> <a href='https://github.com/sabaronett' target='_blank'>GitHub</a>
+    <li> <a href='https://scholar.google.com/citations?user=kZ2ucF8AAAAJ' target='_blank'>Google Scholar</a>
     <li> <a href='/tags/#stanley-a-baronett'>News</a>
     <li> <a href='https://orcid.org/0000-0003-0412-760X' target='_blank'>ORCiD</a>"
 ---
