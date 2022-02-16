@@ -23,7 +23,10 @@ When our Sun dies, it will undergo significant mass loss on the red-giant branch
 The Sun will eventually become a white dwarf.  White dwarfs are made up of electron-degenerate material. They have a mass similar to the Sun, but a volume similar to the Earth! A white dwarf is no longer undergoing fusion and so the luminosity comes from its residual thermal energy. 
 
 A large fraction of white dwarfs are observed to have metal-polluted atmospheres. Metals in the white dwarf atmosphere should sink rapidly into the interior. Since we observe pollution for up to 600Myr after the white dwarf forms, there must be continuous accretion of metal-rich material on to these white dwarfs.  The currently favoured mechanism for for feeding the poliution is planetary material that gets tidally disrupted through close encounters with the white dwarf. This material forms a debris disc around the white dwarf before it gets accreted. 
-
 In order to feed the white dwarf with asteroids, there must be some instabliity in the remaining debris. Smallwood et al. (2018, 2021) showed that the $\nu_6$ resonance may be able to provide a large supply of asteroids to our Sun once it becomes a white dwarf.
 
 ## Circumbinary planet dynamics
+
+While all of the currently observed circumbinary planets are in orbits that are close to coplanar to the binary orbit, this may be a result of selection effects. Many circumbinary gas discs are observed to be misaligned to the orbital plane of the binary and so planet formation may be able to proceed in a misaligned disc.  
+
+There are two inclinations for stationary orbits around an eccentric binary (meaning orbits that do not undergo nodal precession): first, when the planet orbit is coplanar to the binary orbit and second, when the planet orbit is polar to the binary orbit. 
