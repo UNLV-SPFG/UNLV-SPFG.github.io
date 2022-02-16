@@ -13,5 +13,6 @@ sidebar:
     <li> Planet Formation"
 ---
 
-Xiao Hu was a Postdoctoral Researcher at the University of Nevada, Las Vegas.
+Xiao Hu was a Postdoctoral Researcher at the University of Nevada, Las Vegas, working with
+[Prof. Zhaohuan Zhu](team/zhaohuan-zhu).
 He became a VICO Origins Postdoctoral Fellow at the University of Virginia in 2020.

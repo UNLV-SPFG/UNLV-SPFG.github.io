@@ -10,7 +10,7 @@ We develop and apply theoretical and numerical models to investigate protostella
 ## Areas of Interest
 - [**Protoplanetary Disks**](/research/protoplanetary-disks/)
 - [**Planet Formation**](/research/planet-formation/)
-- [**Planetary Dynamics**](/research/planetary-dynamics/)
+- [**Exoplanets**](/research/exoplanets/)
 
 ## Software Development
 In addition to designing and employing large-scale numerical simulations to both understand dynamical processes and compare with observations, we develop and contribute to following widely-used, open-source astrophysical codes:

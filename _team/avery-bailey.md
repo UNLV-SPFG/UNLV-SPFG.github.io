@@ -14,7 +14,8 @@ sidebar:
     <li> Hydrodynamics & radiative transfer"
 ---
 
-Avery Bailey is currently a Postdoctoral Researcher at the University of Nevada, Las Vegas.
+Avery Bailey is currently a Postdoctoral Researcher at the University of Nevada, Las Vegas,
+working with [Prof. Zhaohuan Zhu](team/zhaohuan-zhu).
 
 ## Biography
 - __2021-present__ - Postdoctoral Scholar, University of Nevada, Las Vegas
