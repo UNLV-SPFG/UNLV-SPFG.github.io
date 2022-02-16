@@ -7,7 +7,7 @@ main:
   - title: "Team"
     url: /team/
   - title: "Publications"
-    url: /Publications/ 
+    url: /publications/ 
 
 # research sidebar
 research:
