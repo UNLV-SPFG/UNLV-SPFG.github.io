@@ -28,10 +28,10 @@ feature_row:
     btn_class: "btn--danger"
     btn_label: "Learn more"
   - image_path: /assets/images/home/planetary-dynamics.jpg
-    alt: "Planetary Dynamics"
-    title: "Planetary Dynamics"
+    alt: "Exoplanets"
+    title: "Exoplanets"
     excerpt: "Long-term evolution of our Solar System and exoplanetary systems."
-    url: "/research/planetary-dynamics/"
+    url: "/research/exoplanets/"
     btn_class: "btn--danger"
     btn_label: "Learn more"
 ---
