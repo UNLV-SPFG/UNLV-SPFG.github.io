@@ -19,34 +19,22 @@ Given such a huge difference in length scales, we have to break the
 process down into different stages.
 We highlight in the following what we have been working on.
 
-## Dust-Gas Dynamics
-- (*Chao-Chin*; *Zhaohuan*)
+## Dust-Gas Dynamics and Planetesimal Formation
+Dust particles feel aerodynamic drag force in the gaseous protoplanetary disks,
+similar to a moving golf ball in the air. This drag force will lead to dust's
+radial and azimuthal drift in the disk. When particles have the right size
+so that their stopping time due to the drag force equals the disk's orbital time,
+they will be extremely mobile, eithing drifting to the central star or moving towards some
+ disk sub-structures.
 
-### Streaming Instability 
-- (*Chao-Chin*; *Zhaohuan*)
+When a significant amount of dust is concentrated in some disk regions, the dust
+can push the gas, altering the gas motion. A gas-dust instability, called streaming instability,
+then operates and concentrates dust particles enough to be gravitational bound.
+The resulting planetesimals can be km in size. 
 
-### Vertical Shear Instability 
-- (*Chao-Chin*; *Zhaohuan*)
-
-## Turbulence
-- (*Chao-Chin*; *Hans*)
-
-### Gravito-turbulence
-Due to significant mass infall from the envelope, young protoplanetary disks can be massive enough to form observable self-gravitating features in the form of spirals and fragments. These features can significantly concentrate dust enough to produce bound solid objects which serve as the precursors to planets. [Hans Baehr](/team/hans-baehr/) studies the properties of these disks using hydrodynamic codes, such as the [Pencil code](http://pencil-code.nordita.org/{:target="_blank"}) and [Athena++](https://www.athena-astro.app/){:target="_blank"}.
-
-### Magnetohydrodynamic 
-- (*Chao-Chin*)
-
-## Formation
-- (*Chao-Chin*; *Zhaohuan*)
-### Planetesimals
-- (*Chao-Chin*)
+### Low Mass Planets
 
 ### Giant Planets
-- (*Zhaohuan*; *Avery*)
 
 ### Planetary Systems
-- (*Anna*)
 
-##  Selected Publications
-1. [**Lastname**](/team/first-last/) et al. (YEAR) [Article Title](https://ui.adsabs.harvard.edu/abs/URL/abstract)
