@@ -31,10 +31,3 @@ When a significant amount of dust is concentrated in some disk regions, the dust
 can push the gas, altering the gas motion. A gas-dust instability, called streaming instability,
 then operates and concentrates dust particles enough to be gravitational bound.
 The resulting planetesimals can be km in size. 
-
-### Low Mass Planets
-
-### Giant Planets
-
-### Planetary Systems
-
