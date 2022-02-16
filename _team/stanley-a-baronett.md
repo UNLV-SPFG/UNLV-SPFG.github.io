@@ -10,9 +10,9 @@ sidebar:
   - title: "Research Interests"
     text: "<ul>
     <li> <a href='/research/#software-development'>Computational astrophysics</a>
-    <li> <a href='/research/planet-formation/#streaming-instability'>Streaming instability</a>
-    <li> <a href='/research/planet-formation/#planetesimals'>Planetesimal formation</a>
-    <li> <a href='/research/planetary-dynamics/#post-main-sequence'>Post-main sequence planetary dynamics</a>"
+    <li> Streaming instability
+    <li> <a href='/research/planet-formation/#dust-gas-dynamics-and-planetesimal-formation'>Planetesimal formation</a>
+    <li> <a href='/research/exoplanets/#post-main-sequence-and-white-dwarf-pollution'>Post-main sequence planetary dynamics</a>"
   - title: "Links"
     text: "<ul>
     <li> <a href='https://github.com/sabaronett' target='_blank'>GitHub</a>
@@ -21,8 +21,8 @@ sidebar:
 ---
 
 Stanley A. Baronett is a Graduate Assistant under [Zhaohuan Zhu](/team/zhaohuan-zhu/) at the University of Nevada, Las Vegas.
-With [Chao-Chin Yang](/team/chao-chin-yang/), he uses [Athena++](/research/#software-development) to study [planetesimal formation](/research/planet-formation/#planetesimals) via the [streaming instability](/research/planet-formation/#streaming-instability).
-With [Jason H. Steffen](/team/jason-h-steffen), he contributed to [REBOUNDx](/research/#software-development) to study the effects of [post-main sequence](/research/planetary-dynamics/#post-main-sequence) stellar evolultion and tidal dissipation on [planetary dynamics](/research/planetary-dynamics/).
+With [Chao-Chin Yang](/team/chao-chin-yang/), he uses [Athena++](/research/#software-development) to study [planetesimal formation](/research/planet-formation/#dust-gas-dynamics-and-planetesimal-formation) via the streaming instability.
+With Jason H. Steffen, he contributed to [REBOUNDx](/research/#software-development) to study the effects of [post-main sequence](/research/exoplanets/#post-main-sequence-and-white-dwarf-pollution) stellar evolultion and tidal dissipation on [planetary dynamics](/research/exoplanets/#exoplanet-dynamics).
 
 ## Timeline
 - __2022—present__: Ph.D. Astronomy, University of Nevada, Las Vegas
