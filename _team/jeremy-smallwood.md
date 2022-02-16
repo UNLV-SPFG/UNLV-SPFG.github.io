@@ -9,8 +9,8 @@ sidebar:
     text: "Alum"
   - title: "Research Interests"
     text: "<ul>
-    <li> Protoplanetary Disks
-    <li> Planet Formation"
+    <li> Circumbinary disks"
 ---
 
-This is a NEW TEST!
+Jeremy Smallwood was a Ph.D. student under [Rebecca Martin](team/rebecca-martin) at the University of Nevada, Las Vegas.
+He is currently a postdoctoral researcher at Baylor University.
