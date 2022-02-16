@@ -1,6 +1,6 @@
 ---
 title: "Anna C. Childs"
-excerpt: "PhD Candidate"
+excerpt: "Graduate Assistant"
 header:
   teaser: /assets/images/team/anna-childs.jpg
 sidebar:
