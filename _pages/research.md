@@ -7,10 +7,12 @@ sidebar:
 ## Overview
 We develop and apply theoretical and numerical models to investigate protostellar and protoplanetary disks, star and planet formation, and long-term evolution of exoplanetary systems to compliment existing and forthcoming astronomical observations.
 
+
 ## Areas of Interest
 - [**Protoplanetary Disks**](/research/protoplanetary-disks/)
 - [**Planet Formation**](/research/planet-formation/)
 - [**Exoplanets**](/research/exoplanets/)
+
 
 ## Software Development
 In addition to designing and employing large-scale numerical simulations to both understand dynamical processes and compare with observations, we develop and contribute to following widely-used, open-source astrophysical codes:
@@ -25,6 +27,7 @@ In addition to designing and employing large-scale numerical simulations to both
   - [Baronett S. A.](/team/stanley-a-baronett/), Ferich N., Tamayo D., [Steffen J. H.](/team/jason-steffen/), 2022, [MNRAS](https://doi.org/10.1093/mnras/stac043), 510, 6001
 - [**REBOUND_fragmentation**](https://github.com/ANNACRNN/REBOUND_fragmentation){:target="_blank"}: fragmentation and bulk composition tracking code for the C version of REBOUND
   - [Childs A. C.](/team/anna-childs/), [Steffen J. H.](/team/jason-steffen/), 2022, [MNRAS](https://doi.org/10.1093/mnras/stac158), 511, 1848
+
 
 ## Funding
 We acknowledge the following funding agencies for their generous support:

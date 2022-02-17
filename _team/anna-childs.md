@@ -17,5 +17,4 @@ sidebar:
     <li> <a href='https://annachilds.io'>Personal Website</a>
     <li> <a href='https://orcid.org/0000-0002-9343-8612'>ORCiD</a>"
 ---
-
 Anna C. Childs is a PhD candidate under the mentorship of Dr. [Jason Steffen](/team/jason-steffen/) and Dr. [Rebecca Martin](/team/rebecca-martin/) at the University of Nevada, Las Vegas.
