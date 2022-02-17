@@ -21,8 +21,8 @@ sidebar:
 ---
 
 Stanley A. Baronett is a Graduate Assistant under [Zhaohuan Zhu](/team/zhaohuan-zhu/) at the University of Nevada, Las Vegas.
-With [Chao-Chin Yang](/team/chao-chin-yang/), he uses [Athena++](/research/#software-development) to study [planetesimal formation](/research/planet-formation/#planetesimals) via the [streaming instability](/research/planet-formation/#streaming-instability).
-With [Jason H. Steffen](/team/jason-h-steffen), he contributed to [REBOUNDx](/research/#software-development) to study the effects of [post-main sequence](/research/planetary-dynamics/#post-main-sequence) stellar evolultion and tidal dissipation on [planetary dynamics](/research/planetary-dynamics/).
+With [Chao-Chin Yang](/team/chao-chin-yang/), he uses [Athena++](/research/#software-development) to study [planetesimal formation](/research/planet-formation/#dust-gas-dynamics-and-planetesimal-formation) via the streaming instability.
+With [Jason H. Steffen](/team/jason-steffen/), he contributed to [REBOUNDx](/research/#software-development) to study the effects of [post-main sequence](/research/exoplanets/#post-main-sequence-and-white-dwarf-pollution) stellar evolultion and tidal dissipation on [planetary dynamics](/research/exoplanets/#exoplanet-dynamics).
 
 ## Timeline
 - __2022—present__: Ph.D. Astronomy, University of Nevada, Las Vegas

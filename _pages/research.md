@@ -14,13 +14,17 @@ We develop and apply theoretical and numerical models to investigate protostella
 
 ## Software Development
 In addition to designing and employing large-scale numerical simulations to both understand dynamical processes and compare with observations, we develop and contribute to following widely-used, open-source astrophysical codes:
-- [Athena++](https://www.athena-astro.app/){:target="_blank"}: GRMHD code with adaptive mesh refinement framework
-- [MAGRATHEA](https://ui.adsabs.harvard.edu/abs/2022arXiv220103094H/abstract){:target="_blank"}: planet structure code with fully differentiated interiors
-- [Pencil Code](http://pencil-code.nordita.org/){:target="_blank"}: high-order finite-difference code for compressible hydrodynamic flows with magnetic fields
-- [PGNets](https://doi.org/10.1093/mnras/stab3502){:target="_blank"}: convolutional neural network to infer planet masses from protoplanetary disk gaps in ALMA observations
-- [REBOUND](https://rebound.readthedocs.io/){:target="_blank"}: flexible, customizable N-body code with a variety of integrators
-- [REBOUNDx](https://doi.org/10.1093/mnras/stac043){:target="_blank"}: REBOUND's extended library of additional physics and effects
-- [REBOUND_fragmentation](https://doi.org/10.1093/mnras/stac158){:target="_blank"}: fragmentation and bulk composition tracking code for the C version of REBOUND
+- [**Athena++**](https://www.athena-astro.app/){:target="_blank"}: GRMHD code with adaptive mesh refinement framework
+- [**MAGRATHEA**](https://github.com/Huang-CL/Magrathea){:target="_blank"}: planet structure code with fully differentiated interiors
+  - Huang C., [Rice D. R.](/team/david-rice/), [Steffen J. H.](/team/jason-steffen/), 2022, arXiv e-prints, [p. arXiv:2201.03094](https://ui.adsabs.harvard.edu/abs/2022arXiv220103094H/abstract)
+- [**Pencil Code**](http://pencil-code.nordita.org/){:target="_blank"}: high-order finite-difference code for compressible hydrodynamic flows with magnetic fields
+- [**PGNets**](https://github.com/zhangsj96/PGNets/){:target="_blank"}: convolutional neural network to infer planet masses from protoplanetary disk gaps in ALMA observations
+  - [Zhang S.](/team/shangjia-zhang/), [Zhu Z.](/team/zhaohuan-zhu/), Kang M., 2021, [MNRAS](https://doi.org/10.1093/mnras/stab3502), 510, 447
+- [**REBOUND**](https://rebound.readthedocs.io/){:target="_blank"}: flexible, customizable N-body code with a variety of integrators
+- [**REBOUNDx**](https://reboundx.readthedocs.io/){:target="_blank"}: REBOUND's extended library of additional physics and effects
+  - [Baronett S. A.](/team/stanley-a-baronett/), Ferich N., Tamayo D., [Steffen J. H.](/team/jason-steffen/), 2022, [MNRAS](https://doi.org/10.1093/mnras/stac043), 510, 6001
+- [**REBOUND_fragmentation**](https://github.com/ANNACRNN/REBOUND_fragmentation){:target="_blank"}: fragmentation and bulk composition tracking code for the C version of REBOUND
+  - [Childs A. C.](/team/anna-childs/), [Steffen J. H.](/team/jason-steffen/), 2022, [MNRAS](https://doi.org/10.1093/mnras/stac158), 511, 1848
 
 ## Funding
 We acknowledge the following funding agencies for their generous support:

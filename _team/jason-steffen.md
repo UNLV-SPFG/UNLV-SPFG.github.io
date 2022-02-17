@@ -10,7 +10,7 @@ sidebar:
   - title: "Research Interests"
     text: "<ul>
     <li> Planet formation
-    <li> Planetary and solar system dynamics 
+    <li> Planetary and solar system dynamics"
 ---
 
 Jason Steffen is an Associate Professor in the Department of Physics and Astronomy at the University of Nevada, Las Vegas. He joined UNLV in 2016.  Please visit his [personal website](https://www.jasonhsteffen.com/) for more information.
