@@ -35,11 +35,11 @@ search_provider          : lunr # lunr (default) for GitHub Pages
 
 
 # Analytics
-# analytics:
-#   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
-#   google:
-#     tracking_id          : "UA-174909087-1" # Replace this with your ID
-#     anonymize_ip         : false
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-G8VZJF05EC" # Replace this with your ID
+    anonymize_ip         : false
 
 
 # Site Author
@@ -49,9 +49,6 @@ author:
   bio                    : "Star & Planet Formation Group, Department of Physics & Astronomy, University of Nevada, Las Vegas."
   location               : "Las Vegas, NV, USA"
   links:
-    # - label              : "Google Scholar"
-    #   icon               : "fas fa-graduation-cap"
-    #   url                : "https://scholar.google.com/citations?user=1vO0eS0AAAAJ&hl=en"
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
       url                : "https://github.com/UNLV-SPFG"
@@ -216,23 +213,6 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path>/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
 
 
 # HTML Compression
