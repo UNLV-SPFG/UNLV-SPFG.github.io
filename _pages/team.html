@@ -1,0 +1,93 @@
+---
+title: "Team"
+permalink: /team/
+layout: single
+toc: true
+toc_sticky: true
+toc_label: "&nbsp; Positions / Members"
+toc_icon: "users"
+---
+
+<h2 id="principal-investigators">Principal Investigators</h2>
+<table>
+  {% for post in site.team %}
+  {% if post.excerpt == 'Principal Investigator' %}
+    <tr>
+      <td>
+        <a href="{{ post.url }}">
+          <img src="{{ post.header.teaser }}" width="150">
+        </a>
+      </td>
+      <td>
+        <a href="{{ post.url }}">
+          <h3 id="{{ post.title }}">{{ post.title }}</h3>
+        </a>
+        {{ post.excerpt }}
+      </td>
+    </tr>
+  {% endif %}
+{% endfor %}
+</table>
+
+<h2 id="postdoctoral-scholars">Postdoctoral Scholars</h2>
+<table>
+  {% for post in site.team %}
+  {% if post.excerpt == 'Postdoctoral Scholar' %}
+    <tr>
+      <td>
+        <a href="{{ post.url }}">
+          <img src="{{ post.header.teaser }}" width="150">
+        </a>
+      </td>
+      <td>
+        <a href="{{ post.url }}">
+          <h3 id="{{ post.title }}">{{ post.title }}</h3>
+        </a>
+        {{ post.excerpt }}
+      </td>
+    </tr>
+  {% endif %}
+{% endfor %}
+</table>
+
+<h2 id="graduate-assistants">Graduate Assistants</h2>
+<table>
+  {% for post in site.team %}
+  {% if post.excerpt == 'Graduate Assistant' %}
+    <tr>
+      <td>
+        <a href="{{ post.url }}">
+          <img src="{{ post.header.teaser }}" width="150">
+        </a>
+      </td>
+      <td>
+        <a href="{{ post.url }}">
+          <h3 id="{{ post.title }}">{{ post.title }}</h3>
+        </a>
+        {{ post.excerpt }}
+      </td>
+    </tr>
+  {% endif %}
+{% endfor %}
+</table>
+
+<h2 id="past-members">Alumni</h2>
+<table>
+  {% for post in site.team %}
+  {% if post.excerpt == 'Alum' %}
+    <tr>
+      <td>
+        <a href="{{ post.url }}">
+          <img src="{{ post.header.teaser }}" width="150">
+        </a>
+      </td>
+      <td>
+        <a href="{{ post.url }}">
+          <h3 id="{{ post.title }}">{{ post.title }}</h3>
+        </a>
+        {{ post.excerpt }}
+      </td>
+    </tr>
+  {% endif %}
+{% endfor %}
+</table>

@@ -1,0 +1,40 @@
+# main navbar
+main:
+  - title: "News"
+    url: /news/
+  - title: "Research"
+    url: /research/
+  - title: "Team"
+    url: /team/
+  - title: "Publications"
+    url: /publications/ 
+
+# research sidebar
+research:
+  - title: "Research Overview"
+    url: /research/
+  - title: "Areas of Interest"
+    children:
+      - title: "Protoplanetary Disks"
+        url: /research/protoplanetary-disks/
+      - title: "Planet Formation"
+        url: /research/planet-formation/
+      - title: "Exoplanets"
+        url: /research/exoplanets/
+
+  - title: "Software Development"
+    children:
+      - title: "Athena++"
+        url: https://www.athena-astro.app/
+      - title: "MAGRATHEA"
+        url: https://github.com/Huang-CL/Magrathea
+      - title: "Pencil Code"
+        url: http://pencil-code.nordita.org/
+      - title: "PGNets"
+        url: https://github.com/zhangsj96/PGNets/
+      - title: "REBOUND"
+        url: https://rebound.readthedocs.io/
+      - title: "REBOUND_fragmentation"
+        url: https://github.com/ANNACRNN/REBOUND_fragmentation
+      - title: "REBOUNDx"
+        url: https://reboundx.readthedocs.io/

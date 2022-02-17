@@ -17,38 +17,41 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale                   : "en-US"
-title                    : ""
-title_separator          : " "
-subtitle                 : ""
-name                     : &name "" # &name is a YAML anchor which can be *referenced later
+title                    : "SPFG &#124; UNLV"
+title_separator          : "|"
+subtitle                 : "Star & Planet Formation Group | University of Nevada, Las Vegas"
+name                     : &name "SPFG" # &name is a YAML anchor which can be *referenced later
 # email                    : &email "x.x@unlv.edu"
-description              : &description ""
-# logo                     : "/assets/images/logo.png"
-# favicon                  : "/assets/images/favicon.ico"
-masthead_title           : ""
+description              : &description "Theoretical and computational research into protostellar and protoplanetary disks, star and planet formation, and long-term evolution of exoplanetary systems."
+logo                     : "/assets/images/logo.png"
+favicon                  : "/assets/images/favicon.ico"
+masthead_title           : "SPFG | UNLV"
 breadcrumbs              : true # false (default)
 words_per_minute         : 200
-github_username          : UNLV-SPG
-# search                   : true # true, false (default)
-# search_full_content      : true # true, false (default)
+github_username          : UNLV-SPFG
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default) for GitHub Pages
 
 
 # Analytics
-# analytics:
-#   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
-#   google:
-#     tracking_id          : "UA-174909087-1" # Replace this with your ID
-#     anonymize_ip         : false
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-G8VZJF05EC" # Replace this with your ID
+    anonymize_ip         : false
 
 
 # Site Author
 author:
   name                   : *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar                 : "/assets/images/logo.png"
+  bio                    : "Star & Planet Formation Group, Department of Physics & Astronomy, University of Nevada, Las Vegas."
+  location               : "Las Vegas, NV, USA"
   links:
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
-      url                : "https://github.com/UNLV-SPG"
+      url                : "https://github.com/UNLV-SPFG"
     # - label              : " Email"
     #   icon               : "fas fa-envelope"
     #   url                : "mailto:x.x@unlv.edu"
@@ -59,7 +62,7 @@ footer:
   links:
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
-      url                : "https://github.com/UNLV-SPG"
+      url                : "https://github.com/UNLV-SPFG"
 
 
 # Reading Files
@@ -118,16 +121,61 @@ kramdown:
   enable_coderay         : false
 
 
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
+  team:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Front Matter Defaults
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      layout: single
+      author_profile: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      # header:
-      #   overlay_color: "#333"
+      header:
+        overlay_color: "#666"
+  # _research
+  - scope:
+      path: "_research"
+      type: research
+    values:
+      layout: single
+      header:
+        overlay_color: "#666"
+      excerpt: ""
+      share: true
+      sidebar:
+        nav: "research"
+      toc: true
+      toc_sticky: true
+  # _team
+  - scope:
+      path: "_team"
+      type: team
+    values:
+      layout: single
+      header:
+        overlay_color: "#666"
+      excerpt: ""
+      share: true
 
 
 # Archive Settings (GitHub Pages)
@@ -140,17 +188,16 @@ tag_archive:
 
 
 # Outputting
-# permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /news/page:num/
-# # paginate_path: /publications/peer-reviewed/page:num/ # more than one?
-# timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-# github: [metadata]
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /news/page:num/
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+github: [metadata]
 
 
 # Plugins (previously gems:)
 plugins:
-  # - jekyll-paginate
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -160,29 +207,12 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  # - jekyll-paginate
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path>/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
 
 
 # HTML Compression
