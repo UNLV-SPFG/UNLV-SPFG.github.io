@@ -15,7 +15,7 @@ We develop and apply theoretical and numerical models to investigate protostella
 
 
 ## Software Development
-In addition to designing and employing large-scale numerical simulations to both understand dynamical processes and compare with observations, we develop and contribute to following widely-used, open-source astrophysical codes:
+In addition to designing and employing large-scale numerical simulations to both understand dynamical processes and compare with observations, we develop and contribute to the following widely-used, open-source astrophysical codes:
 - [**Athena++**](https://www.athena-astro.app/){:target="_blank"}: GRMHD code with adaptive mesh refinement framework
 - [**MAGRATHEA**](https://github.com/Huang-CL/Magrathea){:target="_blank"}: planet structure code with fully differentiated interiors
   - Huang C., [Rice D. R.](/team/david-rice/), [Steffen J. H.](/team/jason-steffen/), 2022, arXiv e-prints, [p. arXiv:2201.03094](https://ui.adsabs.harvard.edu/abs/2022arXiv220103094H/abstract)
