@@ -15,7 +15,7 @@ sidebar:
     <li> Interstellar medium"
 ---
 
-Hans Baehr is currently a Postdoctoral Researcher at the University of Nevada, Las Vegas. More information about his scientific interests can be found at <a href="https://hbaehr.github.io">his website</a>
+Hans Baehr is currently a Postdoctoral Researcher at the University of Nevada, Las Vegas, working with [Prof. Rebecca Martin](team/rebecca-martin) and [Prof. Zhaohuan Zhu](team/zhaohuan-zhu) More information about his scientific interests can be found at <a href="https://hbaehr.github.io">his website</a>
 
 ## Biography
 - __2019–present__ - Postdoctoral Scholar, University of Nevada, Las Vegas

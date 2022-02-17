@@ -15,8 +15,7 @@ sidebar:
 ---
 
 Zhaohuan Zhu (朱照寰) is an Associate Professor in the Department of Physics and Astronomy at the University of Nevada, Las Vegas.
-He joined UNLV in 2016 and was awarded a [Sloan Research Fellowship](https://sloan.org/fellowships) in 2017. Please visit his 
-      [personal website](https://www.physics.unlv.edu/~zhzhu/Home.html) for more information.
+He joined UNLV in 2016. Please visit his [personal website](https://www.physics.unlv.edu/~zhzhu/Home.html) for more information.
       
 ## Biography
 - __2020–present__ - Associate Professor, University of Nevada, Las Vegas

@@ -31,13 +31,6 @@ The bodies exchange angular momentum until the resonance no longer exists.
 However, in some cases, it can lead to a stable resonant orbit.
 Mean motion resonances occur when the orbital period of two objects are related by a ratio of integers.
 
-The $$\nu_6$$ resonance is a secular resonance that occurs at the inner edge of our current asteroid belt.
-The resonance occurs if the apsidal precession frequency of an asteroid is equal to the eigenfrequency of Saturn.
-Asteroids that are in the location of this resonance have their eccentricity increased and this leads to collisions with other planets or ejection.
-This resonance has long been thought to be an important source of asteroids that collided with the Earth.
-Asteroid collisions may be necessary for the delivery of water (Martin & Livio 2021), the formation of our Moon, the delivery of heavy elements to the surface of the Earth, and perhaps for the delivery of the building blocks of life itself. 
-
-
 ## Post-Main Sequence and White Dwarf Pollution
 When our Sun dies, it will undergo significant mass loss on the red-giant branch and the asymptotic giant branch phases.
 The outer envelop expands during these phases and may engulf planets that are close in.
@@ -55,8 +48,6 @@ Since we observe pollution for up to 600Myr after the white dwarf forms, there m
 The currently favoured mechanism for for feeding the poliution is planetary material that gets tidally disrupted through close encounters with the white dwarf.
 This material forms a debris disc around the white dwarf before it gets accreted.
 In order to feed the white dwarf with asteroids, there must be some instabliity in the remaining debris.
-Smallwood et al. (2018, 2021) showed that the $$\nu_6$$ resonance may be able to provide a large supply of asteroids to our Sun once it becomes a white dwarf.
-
 
 ## Circumbinary planet dynamics
 While all of the currently observed circumbinary planets are in orbits that are close to coplanar to the binary orbit, this may be a result of selection effects.
