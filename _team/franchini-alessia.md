@@ -1,11 +1,11 @@
 ---
-title: "Alessia Franchini"
+title: "Franchini, Alessia"
 excerpt: "Alum"
 header:
-  teaser: /assets/images/team/alessia-franchini.jpg
+  teaser: /assets/images/team/franchini-alessia.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/alessia-franchini.jpg
+    image: /assets/images/team/franchini-alessia.jpg
     text: "Alum"
   - title: "Research Interests"
     text: "<ul>
@@ -16,7 +16,7 @@ sidebar:
 
 Dr. Alessia Franchini was a Postdoctoral Scholar at UNLV for two years
 working with
-[Prof. Rebecca Martin](/team/rebecca-martin)
+[Prof. Rebecca Martin](/team/martin-rebecca)
 as well as
 [Prof. Steve Lubow](https://www.stsci.edu/stsci-research/research-directory/steve-lubow)
 at
@@ -26,7 +26,7 @@ She used a combination of analytical models and hydrodynamical
 simulations to investigate the interaction between gaseous disks and
 planets in binary stars.
 During her time at UNLV, she also worked with
-[Prof. Martin](/team/rebecca-martin)
+[Prof. Martin](/team/martin-rebecca)
 on the transients Be/X-ray binaries and developed models that can
 reproduce and explain the observed outbursts in these systems.
 

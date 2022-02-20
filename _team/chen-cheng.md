@@ -1,11 +1,11 @@
 ---
-title: "Cheng Chen"
+title: "Chen, Cheng"
 excerpt: "Alum"
 header:
-  teaser: /assets/images/team/cheng-chen.png
+  teaser: /assets/images/team/chen-cheng.png
 sidebar:
   - title: "Position"
-    image: /assets/images/team/cheng-chen.png
+    image: /assets/images/team/chen-cheng.png
     text: "Alum"
   - title: "Research Interests"
     text: "<ul>
@@ -17,7 +17,7 @@ sidebar:
 ---
 
 Cheng Chen was a graduate student at University of Nevada, Las Vegas for five years since 2016.
-Cheng worked with Prof. Rebecca Martin on planet dynamics of circumbinary planets. Please visit his
+Cheng worked with Prof. [Rebecca Martin](/team/martin-rebecca/) on planet dynamics of circumbinary planets. Please visit his
       [personal website](https://chengchenblog.wordpress.com/) for more information.
       
 ## Biography

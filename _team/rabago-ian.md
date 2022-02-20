@@ -1,11 +1,11 @@
 ---
-title: "Ian Rabago"
+title: "Rabago, Ian"
 excerpt: "Graduate Assistant"
 header:
-  teaser: /assets/images/team/ian-rabago.png
+  teaser: /assets/images/team/rabago-ian.png
 sidebar:
   - title: "Position"
-    image: /assets/images/team/ian-rabago.png
+    image: /assets/images/team/rabago-ian.png
     text: "Graduate Assistant"
   - title: "Research Interests"
     text: "<ul>
@@ -17,4 +17,4 @@ sidebar:
 
 Ian Rabago is a PhD student at the University of Nevada, Las Vegas. He has been part of the SPFG as a graduate student since 2018.
 
-Working under [Prof. Zhaohuan Zhu](team/zhaohuan-zhu), Ian is currently researching the dynamics of protoplanetary disks, including kinetic signatures of planet formation and the structural evolution of circumbinary disks. 
+Working under [Prof. Zhaohuan Zhu](/team/zhu-zhaohuan/), Ian is currently researching the dynamics of protoplanetary disks, including kinetic signatures of planet formation and the structural evolution of circumbinary disks. 

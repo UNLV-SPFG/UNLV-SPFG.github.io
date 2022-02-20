@@ -1,11 +1,11 @@
 ---
-title: "Chao-Chin Yang"
+title: "Yang, Chao-Chin"
 excerpt: "Principal Investigator"
 header:
-  teaser: /assets/images/team/chao-chin-yang.jpg
+  teaser: /assets/images/team/yang-chao-chin.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/chao-chin-yang.jpg
+    image: /assets/images/team/yang-chao-chin.jpg
     text: "Principal Investigator"
   - title: "Research Interests"
     text: "<ul>

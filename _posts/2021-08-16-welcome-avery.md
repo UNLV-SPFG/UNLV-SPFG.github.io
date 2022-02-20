@@ -5,7 +5,7 @@ categories:
   - Welcome
 tags:
   - Avery Bailey
-link: /team/avery-bailey
+link: /team/bailey-avery
 ---
 
-[Avery Bailey](/team/avery-bailey) has joined our group as a Postdoctoral Researcher.
+[Avery Bailey](/team/bailey-avery) has joined our group as a Postdoctoral Researcher.

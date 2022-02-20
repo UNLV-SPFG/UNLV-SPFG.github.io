@@ -1,11 +1,11 @@
 ---
-title: "Jason Steffen"
+title: "Steffen, Jason H."
 excerpt: "Principal Investigator"
 header:
-  teaser: /assets/images/team/jason-steffen.jpg
+  teaser: /assets/images/team/steffen-jason.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/jason-steffen.jpg
+    image: /assets/images/team/steffen-jason.jpg
     text: "Principal Investigator"
   - title: "Research Interests"
     text: "<ul>

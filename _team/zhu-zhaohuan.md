@@ -1,11 +1,11 @@
 ---
-title: "Zhaohuan Zhu"
+title: "Zhu, Zhaohuan "
 excerpt: "Principal Investigator"
 header:
-  teaser: /assets/images/team/zhaohuan-zhu.jpg
+  teaser: /assets/images/team/zhu-zhaohuan.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/zhaohuan-zhu.jpg
+    image: /assets/images/team/zhu-zhaohuan.jpg
     text: "Principal Investigator"
   - title: "Research Interests"
     text: "<ul>

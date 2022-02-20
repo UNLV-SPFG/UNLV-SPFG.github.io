@@ -1,11 +1,11 @@
 ---
-title: "Rebecca G. Martin"
+title: "Martin, Rebecca G."
 excerpt: "Principal Investigator"
 header:
-  teaser: /assets/images/team/rebecca-martin.jpg
+  teaser: /assets/images/team/martin-rebecca.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/rebecca-martin.jpg
+    image: /assets/images/team/martin-rebecca.jpg
     text: "Principal Investigator"
   - title: "Research Interests"
     text: "<ul>
