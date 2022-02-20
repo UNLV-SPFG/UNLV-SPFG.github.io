@@ -6,3 +6,4 @@ Gemfile.lock
 *.Identifier
 .bundle/
 vendor/
+assets/images/logos
