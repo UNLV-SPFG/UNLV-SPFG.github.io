@@ -1,11 +1,11 @@
 ---
-title: "Min Li"
+title: "Li, Min"
 excerpt: "Alum"
 header:
-  teaser: /assets/images/team/min-li.jpeg
+  teaser: /assets/images/team/li-min.jpeg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/min-li.jpeg
+    image: /assets/images/team/li-min.jpeg
     text: "Alum"
   - title: "Research Interests"
     text: "<ul>
@@ -16,7 +16,7 @@ sidebar:
     <li> Composition of meteorites and planets"
 ---
 
-Min Li (李敏) is a teacher at Jilin Normal University since 2021. She was a Postdoctoral Researcher at University of Nevada, Las Vegas for four years since 2017.
+Min Li (李敏) is a teacher at Jilin Normal University since 2021. She worked with [Jason H. Steffen](/team/steffen-jason) as a Postdoctoral Researcher at University of Nevada, Las Vegas for four years since 2017.
 
       
 ## Biography

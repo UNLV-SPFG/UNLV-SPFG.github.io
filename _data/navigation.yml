@@ -7,7 +7,7 @@ main:
   - title: "Team"
     url: /team/
   - title: "Publications"
-    url: /Publications/ 
+    url: /publications/ 
 
 # research sidebar
 research:
@@ -19,8 +19,8 @@ research:
         url: /research/protoplanetary-disks/
       - title: "Planet Formation"
         url: /research/planet-formation/
-      - title: "Planetary Dynamics"
-        url: /research/planetary-dynamics/   
+      - title: "Exoplanets"
+        url: /research/exoplanets/
 
   - title: "Software Development"
     children:
@@ -34,7 +34,7 @@ research:
         url: https://github.com/zhangsj96/PGNets/
       - title: "REBOUND"
         url: https://rebound.readthedocs.io/
-      - title: "REBOUNDx"
-        url: https://reboundx.readthedocs.io/
       - title: "REBOUND_fragmentation"
         url: https://github.com/ANNACRNN/REBOUND_fragmentation
+      - title: "REBOUNDx"
+        url: https://reboundx.readthedocs.io/

@@ -1,11 +1,11 @@
 ---
-title: "David R. Rice"
+title: "Rice, David R."
 excerpt: "Graduate Assistant"
 header:
-  teaser: /assets/images/team/david-rice.jpg
+  teaser: /assets/images/team/rice-david.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/david-rice.jpg
+    image: /assets/images/team/rice-david.jpg
     text: "Graduate Assistant"
   - title: "Research Interests"
     text: "<ul>
@@ -19,7 +19,7 @@ sidebar:
     <li> <a href='https://orcid.org/0000-0001-6009-8685'>ORCiD</a>"
 ---
 
-David R. Rice is a PhD candidate in Astronomy at UNLV working with the research group of Prof. Jason H. Steffen.
+David R. Rice is a PhD candidate in Astronomy at UNLV working with the research group of Prof. [Jason H. Steffen](/team/steffen-jason/).
 
 David's research centers around planet interiors and dynamics. He maintains the [MAGRATHEA](https://github.com/Huang-CL/Magrathea) planet structure code.
 
