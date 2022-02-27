@@ -4,7 +4,11 @@ date: 2022-02-25T08:00:00
 categories:
   - Publications
 tags:
-  - terrestrial circumbinary planet formation
+  - circumbinary
+  - terrestrial
+  - planet formation
+  - Anna Childs
+  - Rebecca Martin
 link: https://arxiv.org/abs/2202.10495
 ---
 
