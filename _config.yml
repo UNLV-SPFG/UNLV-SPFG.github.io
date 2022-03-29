@@ -45,7 +45,7 @@ analytics:
 # Site Author
 author:
   name                   : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar                 : "/assets/images/logo.png"
+  avatar                 : "/assets/images/avatar.webp"
   bio                    : "Star & Planet Formation Group, Department of Physics & Astronomy, University of Nevada, Las Vegas."
   location               : "Las Vegas, NV, USA"
   links:
