@@ -2,7 +2,7 @@
 title: "Nevada NASA Space Grant Fellowship"
 date: 2021-08-31T08:00:00
 categories:
-  - Press
+  - Awards
 tags:
   - Fellowship
   - NASA
