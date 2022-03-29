@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 header:
   overlay_filter: 0.2 # opacity
-  overlay_image: /assets/images/home/splash.jpg
+  overlay_image: /assets/images/home/splash.webp
   actions:
     - label: "<i class='fas fa-book-reader'></i> &nbsp;Learn more"
       url: "/research/"
