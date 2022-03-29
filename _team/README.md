@@ -15,17 +15,21 @@ header:
 sidebar:
   - title: "Position"
     image: /assets/images/team/lastname-firstname.jpg
-    text: "[position]"
+    text: "[position]<br>
+    <a href='mailto:user@domain.org'>
+      <i class='fas fa-fw fa-envelope'></i>Email</a><br>
+    <a href='https://github.com/username' target='_blank'
+      <i class='fab fa-fw fa-github'></i>GitHub</a><br>
+    <a href='https://scholar.google.com/citations?user=ID' target='_blank'>
+      <i class='fas fa-fw fa-user-graduate'></i>Google Scholar</a><br>
+    <a href='/tags/#tag-name'>
+      <i class='fas fa-fw fa-newspaper'></i>News</a><br>
+    <a href='https://orcid.org/0000-0000-0000-0000' target='_blank'>
+      <i class='fab fa-fw fa-orcid'></i>ORCiD</a>"
   - title: "Research Interests"
     text: "<ul>
     <li> Topic 1
     <li> Topic 2"
-  - title: "Links"
-    text: "<ul>
-    <li> <a href='https://github.com/username' target='_blank'>GitHub</a>
-    <li> <a href='https://scholar.google.com/citations?user=id' target='_blank'>Google Scholar</a>
-    <li> <a href='/tags/#lastname-firstname'>News</a>
-    <li> <a href='https://orcid.org/1234-5678-90AB-CDEF' target='_blank'>ORCiD</a>"
 ---
 ```
 ### Key Legend
@@ -39,12 +43,10 @@ sidebar:
   - `teaser:` The path to your profile image (`.jpg` or `.png`) in [`/assets/images/team/`](https://github.com/UNLV-SPFG/UNLV-SPFG.github.io/tree/dev/assets/images/team) to appear on the [main directory](https://unlv-spfg.github.io/team/); please crop your photo to have *square* dimensions (i.e., 1:1 aspect ratio) and match its filename to that of your Markdown file (e.g., `lastname-firstname.jpg`).
 - `sidebar:`
   - `title: "Position"` Leave as is.
-  - `image:` The same path to your profile image to appear on your profile sidebar; see `header:`, `teaser:` above for the standard path and image format.
-  - `text:` Your position (wrapped in double quotes); see `excerpt:` above for valid fixed values.
+    - `image:` The same path to your profile image to appear on your profile sidebar; see `header:`, `teaser:` above for the standard path and image format.
+    - `text:` Your position (see `excerpt:` above for valid fixed values), followed by any optional personal links; use the sample HTML link and icon tags in the example above, making sure to wrap your hypertext reference (`href=`) in *single* quotes (`'`); you must include a `"` (double quote) after the final item; see [example above](#Front-Matter).
   - `title: "Research Interests"` (Optional) To be included on your profile sidebar.
-  - `text: "<ul>` (HTML for _**u**nnumbered **l**ist_) (Optional) List each item on a separate line prepended with `<li> ` (HTML for _**l**ist **i**tem_, ensuring a single empty space before your text); best to keep to a maximum of 2-3 words and must include a double quote (`"`) after the final item; see [example above](#Front-Matter).
-  - `title: "Links"` (Optional) To be included on your profile sidebar.
-  - `text: "<ul>` (Optional) List each item on a separate line prepended with `<li> `; use HTML link tags (`<a href='https://name.domain'>Link</a>`) but wrap your hypertext reference (`href=`) in *single* quotes (`'`); you must include a `"` (double quote) after the final item; see [example above](#Front-Matter).
+    - `text: "<ul>` (HTML for _**u**nnumbered **l**ist_) (Optional) List each item on a separate line prepended with `<li> ` (HTML for _**l**ist **i**tem_, ensuring a single empty space before your text); best to keep to a maximum of 2-3 words and must include a double quote (`"`) after the final item; see [example above](#Front-Matter).
 
 
 ## Main Content (Markdown)
