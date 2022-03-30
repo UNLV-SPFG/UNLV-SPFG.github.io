@@ -23,7 +23,7 @@ subtitle                 : "Star & Planet Formation Group | University of Nevada
 name                     : &name "SPFG" # &name is a YAML anchor which can be *referenced later
 # email                    : &email "x.x@unlv.edu"
 description              : &description "Theoretical and computational research into protostellar and protoplanetary disks, star and planet formation, and long-term evolution of exoplanetary systems."
-logo                     : "/assets/images/logo.png"
+logo                     : "/assets/images/logo.webp"
 favicon                  : "/assets/images/favicon.ico"
 masthead_title           : "SPFG | UNLV"
 breadcrumbs              : true # false (default)
