@@ -6,7 +6,7 @@ header:
 sidebar:
   - title: "Position"
     image: /assets/images/team/baehr-hans.png
-    text: "Postdoctoral Scholar"<br>
+    text: "Postdoctoral Scholar<br>
     <a href='mailto:hans-paul.baehr@unlv.edu'>
       <i class='fas fa-fw fa-envelope'></i>Email</a><br>
     <a href='https://github.com/hbaehr' target='_blank'
