@@ -9,7 +9,7 @@ sidebar:
     text: "Postdoctoral Scholar<br>
     <a href='mailto:hans-paul.baehr@unlv.edu'>
       <i class='fas fa-fw fa-envelope'></i>Email</a><br>
-    <a href='https://github.com/hbaehr' target='_blank'
+    <a href='https://github.com/hbaehr' target='_blank'>
       <i class='fab fa-fw fa-github'></i>GitHub</a><br>
     <a href='https://scholar.google.com/citations?user=t4Y1ihUAAAAJ' target='_blank'>
       <i class='fas fa-fw fa-user-graduate'></i>Google Scholar</a><br>
