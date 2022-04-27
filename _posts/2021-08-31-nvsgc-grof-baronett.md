@@ -4,10 +4,10 @@ date: 2021-08-31T08:00:00
 categories:
   - Awards
 tags:
-  - Fellowship
+  - fellowships
   - NASA
   - Nevada Space Grant
-  - Stanley A. Baronett
+  - Baronett, Stanley
 link: https://nasa.epscorspo.nevada.edu/nevada-nasa-space-grant-consortium/about/current-student-awards/
 ---
 

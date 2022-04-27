@@ -6,8 +6,8 @@ categories:
 tags:
   - Science Olympiad
   - Nevada
-  - Stanley A. Baronett
-  - Ian Rabago
+  - Baronett, Stanley
+  - Rabago, Ian
 link: https://www.nevadaso.org/
 ---
 

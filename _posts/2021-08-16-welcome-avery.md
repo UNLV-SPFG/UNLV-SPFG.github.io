@@ -2,9 +2,9 @@
 title: "Welcome, Avery Bailey"
 date: 2021-08-16T08:00:00
 categories:
-  - Welcome
+  - New Members
 tags:
-  - Avery Bailey
+  - Bailey, Avery
 link: /team/bailey-avery
 ---
 

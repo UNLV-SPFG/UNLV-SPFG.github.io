@@ -4,13 +4,13 @@ date: 2022-03-22T016:00:00
 categories:
   - Outreach
 tags:
-  - Science Fair
-  - Judging
-  - Stanley A. Baronett
-  - Ian Rabago
-  - David R. Rice
-  - Chao-Chin Yang
-  - Shangjia Zhang
+  - science fair
+  - judging
+  - Baronett, Stanley
+  - Rabago, Ian
+  - Rice, David
+  - Yang, Chao-Chin
+  - Zhang, Shangjia
 link: https://www.unlv.edu/sciences/science-fair/high-school
 ---
 
