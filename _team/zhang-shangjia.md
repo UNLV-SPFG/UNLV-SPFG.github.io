@@ -6,7 +6,13 @@ header:
 sidebar:
   - title: "Position"
     image: /assets/images/team/zhang-shangjia.jpg
-    text: "Graduate Assistant"
+    text: "Graduate Assistant<br>
+    <a href='mailto:shangjia.zhang@unlv.edu'><i class='fas fa-fw fa-envelope'></i>Email</a><br>
+    <a href='https://github.com/zhangsj96' target='_blank'><i class='fab fa-fw fa-github'></i>GitHub</a><br>
+    <a href='https://scholar.google.com/citations?user=c1gC7oIAAAAJ&hl=en' target='_blank'><i class='fas fa-fw fa-user-graduate'></i>Google Scholar</a><br>
+    <a href='/tags/#zhang-shangjia'><i class='fas fa-fw fa-newspaper'></i>News</a><br>
+    <a href='https://orcid.org/0000-0002-8537-9114' target='_blank'><i class='fab fa-fw fa-orcid'></i>ORCiD</a>"
+
   - title: "Research Interests"
     text: "<ul>
     <li> star and planet formation
