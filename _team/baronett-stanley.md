@@ -10,7 +10,7 @@ sidebar:
     <a href='mailto:barons2@unlv.nevada.edu'><i class='fas fa-fw fa-envelope'></i>Email</a><br>
     <a href='https://github.com/sabaronett' target='_blank'><i class='fab fa-fw fa-github'></i>GitHub</a><br>
     <a href='https://scholar.google.com/citations?user=kZ2ucF8AAAAJ' target='_blank'><i class='fas fa-fw fa-user-graduate'></i>Google Scholar</a><br>
-    <a href='/tags/#stanley-a-baronett'><i class='fas fa-fw fa-newspaper'></i>News</a><br>
+    <a href='/tags/#baronett-stanley'><i class='fas fa-fw fa-newspaper'></i>News</a><br>
     <a href='https://orcid.org/0000-0003-0412-760X' target='_blank'><i class='fab fa-fw fa-orcid'></i>ORCiD</a>"
   - title: "Research Interests"
     text: "<ul>

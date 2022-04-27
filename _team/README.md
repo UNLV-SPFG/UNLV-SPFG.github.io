@@ -22,7 +22,7 @@ sidebar:
       <i class='fab fa-fw fa-github'></i>GitHub</a><br>
     <a href='https://scholar.google.com/citations?user=ID' target='_blank'>
       <i class='fas fa-fw fa-user-graduate'></i>Google Scholar</a><br>
-    <a href='/tags/#firstname-lastname'>
+    <a href='/tags/#lastname-firstname'>
       <i class='fas fa-fw fa-newspaper'></i>News</a><br>
     <a href='https://orcid.org/0000-0000-0000-0000' target='_blank'>
       <i class='fab fa-fw fa-orcid'></i>ORCiD</a>"

@@ -13,7 +13,7 @@ sidebar:
       <i class='fab fa-fw fa-github'></i>GitHub</a><br>
     <a href='https://scholar.google.com/citations?user=t4Y1ihUAAAAJ' target='_blank'>
       <i class='fas fa-fw fa-user-graduate'></i>Google Scholar</a><br>
-    <a href='/tags/#hans-baehr'>
+    <a href='/tags/#baehr-hans'>
       <i class='fas fa-fw fa-newspaper'></i>News</a><br>
     <a href='https://orcid.org/0000-0002-0880-8296' target='_blank'>
       <i class='fab fa-fw fa-orcid'></i>ORCiD</a>"
