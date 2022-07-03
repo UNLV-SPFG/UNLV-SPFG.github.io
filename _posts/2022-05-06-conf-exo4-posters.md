@@ -14,7 +14,7 @@ tags:
   - Zhang, Shangjia
 ---
 
-Thanks to SOC member [Jason Steffen](/team/steffen-jason/), AASTCS 9: [Exoplanets IV](https://aas.org/meetings/aastcs9/exoplanets) conference (May 2–6, 2022, M Resort Spa Casino, Las Vegas, NV) was a huge success and the largest AAS meeting to date, with over 500 attendees.
+Thanks to SOC member [Jason Steffen](/team/steffen-jason/), the [AASTCS 9: Exoplanets IV](https://aas.org/meetings/aastcs9/exoplanets) conference (May 2–6, 2022, M Resort Spa Casino, Las Vegas, NV) was a huge success and the largest AAS meeting to date, with over 500 attendees.
 
 Congratulations to our following members for presenting their posters, viewable from the links below:
 - [**Baehr, Hans**](/team/baehr-hans/)
