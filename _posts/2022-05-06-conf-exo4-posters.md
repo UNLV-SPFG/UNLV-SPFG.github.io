@@ -4,7 +4,7 @@ date: 2022-05-06T15:00:00
 categories:
   - Conferences
 tags:
-  - posters
+  - poster
   - Baehr, Hans
   - Baronett, Stanley
   - Childs, Anna

@@ -4,7 +4,7 @@ date: 2021-08-31T08:00:00
 categories:
   - Awards
 tags:
-  - fellowships
+  - fellowship
   - NASA
   - Nevada Space Grant
   - Baronett, Stanley

@@ -5,8 +5,14 @@ categories:
   - Conferences
 link: https://www.ufos-project.eu/dust-gas-drag-instability-code-comparison
 tags:
+  - accretion disks
   - Baronett, Stanley
+  - dust dynamics
   - Mohov, Aleksey
+  - NASA
+  - NSF
+  - streaming instability
+  - TCAN
   - Yang, Chao-Chin
 ---
 
