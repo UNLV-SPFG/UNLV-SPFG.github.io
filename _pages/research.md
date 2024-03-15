@@ -18,7 +18,7 @@ We develop and apply theoretical and numerical models to investigate protostella
 In addition to designing and employing large-scale numerical simulations to both understand dynamical processes and compare with observations, we develop and contribute to the following widely-used, open-source astrophysical codes:
 - [**Athena++**](https://www.athena-astro.app/){:target="_blank"}: GRMHD code with adaptive mesh refinement framework
 - [**MAGRATHEA**](https://github.com/Huang-CL/Magrathea){:target="_blank"}: planet structure code with fully differentiated interiors
-  - [Huang C.](/team/huang-chenliang/), [Rice D. R.](/team/rice-david/), [Steffen J. H.](/team/steffen-jason/), 2022, arXiv e-prints, [p. arXiv:2201.03094](https://ui.adsabs.harvard.edu/abs/2022arXiv220103094H/abstract)
+  - [Huang C.](/team/huang-chenliang/), [Rice D. R.](/team/rice-david/), [Steffen J. H.](/team/steffen-jason/), 2022, [MNRAS](https://doi.org/10.1093/mnras/stac1133), 513, 5256
 - [**Pencil Code**](http://pencil-code.nordita.org/){:target="_blank"}: high-order finite-difference code for compressible hydrodynamic flows with magnetic fields
 - [**PGNets**](https://github.com/zhangsj96/PGNets/){:target="_blank"}: convolutional neural network to infer planet masses from protoplanetary disk gaps in ALMA observations
   - [Zhang S.](/team/zhang-shangjia/), [Zhu Z.](/team/zhu-zhaohuan/), Kang M., 2021, [MNRAS](https://doi.org/10.1093/mnras/stab3502), 510, 447
