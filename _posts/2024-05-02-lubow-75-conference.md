@@ -12,6 +12,7 @@ tags:
 
 ### Conference Links
 - [Program](/assets/docs/news/lubow75_program.pdf)
+- [Abstracts](/assets/docs/news/lubow75_abstracts.pdf)
 - [Website](https://www.physics.unlv.edu/~lepp/Lubow75/)
 
 ### Workshop rationale and goals
