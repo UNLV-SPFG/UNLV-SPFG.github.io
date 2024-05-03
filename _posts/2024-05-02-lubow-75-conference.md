@@ -11,9 +11,9 @@ tags:
 ## May 6–9, 2024, [Barrick Art Museum](https://www.unlv.edu/barrickmuseum), University of Nevada, Las Vegas, USA
 
 ### Conference Links
-- [Program](/assets/docs/news/lubow75_program.pdf)
-- [Abstracts](/assets/docs/news/lubow75_abstracts.pdf)
-- [Website](https://www.physics.unlv.edu/~lepp/Lubow75/)
+- [Program](/assets/docs/news/lubow75_program.pdf){:target="_blank"}
+- [Abstracts](/assets/docs/news/lubow75_abstracts.pdf){:target="_blank"}
+- [Website](https://www.physics.unlv.edu/~lepp/Lubow75/){:target="_blank"}
 
 ### Workshop rationale and goals
 
