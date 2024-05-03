@@ -1,12 +1,12 @@
 ---
 title: "Yang, Chao-Chin"
-excerpt: "Principal Investigator"
+excerpt: "Alum"
 header:
   teaser: /assets/images/team/yang-chao-chin.jpg
 sidebar:
   - title: "Position"
     image: /assets/images/team/yang-chao-chin.jpg
-    text: "Principal Investigator"
+    text: "Alum"
   - title: "Research Interests"
     text: "<ul>
     <li> Planet formation
@@ -17,11 +17,11 @@ sidebar:
     <li> Computational astrophysics"
 ---
 
-Chao-Chin Yang (楊朝欽) is an Assistant Research Professor in the Department of Physics and Astronomy at the University of Nevada, Las Vegas.
+Chao-Chin Yang (楊朝欽) was an Assistant Research Professor in the Department of Physics and Astronomy at the University of Nevada, Las Vegas.
 He first joined UNLV as a Postdoctoral Scholar in 2017.
 
 ## Biography
-- __2020–present__ - Assistant Research Professor, University of Nevada, Las Vegas
+- __2020–2022__ - Assistant Research Professor, University of Nevada, Las Vegas
 - __2017–2020__ - Postdoctoral Scholar, University of Nevada, Las Vegas
 - __2014–2017__ - Senior Research Fellow, Lund University
 - __2012–2014__ - Postdoctoral Fellow, Lund University
