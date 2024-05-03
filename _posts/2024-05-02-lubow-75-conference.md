@@ -52,7 +52,7 @@ A birthday celebration will be held to honor Dr. Steve Lubow, his work, and his 
 - Daniel Godines
 - Lee Hartmann
 - [Xiao Hu](/team/hu-xiao/)
-- Shunquan Huang
+- [Shunquan Huang](/team/huang-shunquan/)
 - Eric Jensen
 - Yan-Fei Jiang
 - [Ted Johnson](/team/johnson-ted/)
