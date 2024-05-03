@@ -1,12 +1,12 @@
 ---
 title: "Childs, Anna C."
-excerpt: "Graduate Assistant"
+excerpt: "Alum"
 header:
   teaser: /assets/images/team/childs-anna.jpg
 sidebar:
   - title: "Position"
     image: /assets/images/team/childs-anna.jpg
-    text: "Graduate Assistant"
+    text: "Alum"
   - title: "Research Interests"
     text: "<ul>
     <li> Terrestrial Planet Formation
@@ -17,4 +17,4 @@ sidebar:
     <li> <a href='https://annachilds.io'>Personal Website</a>
     <li> <a href='https://orcid.org/0000-0002-9343-8612'>ORCiD</a>"
 ---
-Anna C. Childs is a PhD candidate under the mentorship of Dr. [Jason Steffen](/team/steffen-jason/) and Dr. [Rebecca Martin](/team/martin-rebecca/) at the University of Nevada, Las Vegas.
+Anna C. Childs earned a PhD under the mentorship of Dr. [Jason Steffen](/team/steffen-jason/) and Dr. [Rebecca Martin](/team/martin-rebecca/) at the University of Nevada, Las Vegas.
