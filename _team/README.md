@@ -33,7 +33,7 @@ sidebar:
 ---
 ```
 ### Key Legend
-- `title:` Your name—last name *first*, immediately followed by a comma (`,`), and wrapped in double quotes—to be displayed in the team directory and on the top header of your profile page, e.g., `"Hubble, Edwin P."`; you can include a middle initial.
+- `title:` Your name—last name *first*, immediately followed by a comma (`,`), and wrapped in **double quotes** (`"`)—to be displayed in the team directory and on the top header of your profile page, e.g., `"Hubble, Edwin P."`; you can include a middle initial.
 - `excerpt:` Your position (wrapped in double quotes) as one of the following _fixed_ values:
   - `"Principal Investigator"`
   - `"Postdoctoral Scholar"`
@@ -45,6 +45,7 @@ sidebar:
   - `title: "Position"` Leave as is.
     - `image:` The same path to your profile image to appear on your profile sidebar; see `header:`, `teaser:` above for the standard path and image format.
     - `text:` Your position (see `excerpt:` above for valid fixed values), followed by any optional personal links; use the sample HTML link and icon tags in the example above, making sure to wrap your hypertext reference (`href=`) in *single* quotes (`'`); you must include a `"` (double quote) after the final item; see [example above](#Front-Matter).
+    See also [this table](https://www.w3schools.com/icons/fontawesome_icons_webapp.asp) for a sample list of Font Awesome (FA) icons to use in `<i class='fas fa-fw ...'></i>`.
   - `title: "Research Interests"` (Optional) To be included on your profile sidebar.
     - `text: "<ul>` (HTML for _**u**nnumbered **l**ist_) (Optional) List each item on a separate line prepended with `<li> ` (HTML for _**l**ist **i**tem_, ensuring a single empty space before your text); best to keep to a maximum of 2-3 words and must include a double quote (`"`) after the final item; see [example above](#Front-Matter).
 
