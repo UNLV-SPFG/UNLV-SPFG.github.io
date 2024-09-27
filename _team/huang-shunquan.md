@@ -2,10 +2,10 @@
 title: "Huang, Shunquan"
 excerpt: "Graduate Assistant"
 header:
-  teaser: /assets/images/team/avatar.webp
+  teaser: /assets/images/team/Shunquan.Huang.png
 sidebar:
   - title: "Position"
-    image: /assets/images/team/avatar.webp
+    image: /assets/images/team/Shunquan.Huang.png
     text: "Graduate Assistant<br>
     <a href='/tags/#huang-shunquan'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
@@ -17,3 +17,5 @@ Shunquan Huang is a Graduate Assistant under [Rebecca Martin](/team/martin-rebec
 
 ## Timeline
 - __2023—present__: <a href='https://www.unlv.edu/degree/phd-astronomy' target='_blank'>Ph.D. Astronomy</a>, <a href='https://www.unlv.edu/' target='_blank'>UNLV</a>
+- __2020-2023__ - M.S. Astrophysics, Sun Yat-sen University
+- __2016-2020__ -B.S. Physics, Sun Yat-sen University
