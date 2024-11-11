@@ -47,22 +47,22 @@ Please open an [issue](https://github.com/UNLV-SPFG/UNLV-SPFG.github.io/issues) 
 ## Making Changes
 - To [contribute to the website](https://docs.github.com/en/get-started/quickstart/contributing-to-projects), you must first [fork](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) this repo, then [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) changes to your fork (see subsection topics below), before [making a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) (see our [GitHub wiki guide](https://github.com/UNLV-SPFG/technical-resources/wiki/Getting-Started#github) for basic information and additional resources).
 - Periodically, and especially before you start making any local changes (to avoid [merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)), we recommend synchronizing your branch to fetch the latest changes made to this main repo (the _upstream_ branch to your personal fork); see [Syncing your branch](https://github.com/UNLV-SPFG/technical-resources/wiki/Getting-Started#syncing-your-branch) on [our wiki](https://github.com/UNLV-SPFG/technical-resources/wiki) or [Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) at [GitHub Docs](https://docs.github.com/).
-- You should make and verify (by [viewing locally](#Viewing-Site-Locally)) changes to the [`main`](/tree/main) [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) of __*your*__ fork and [make a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) _from_ your **head repository: username/UNLV-SPFG.github.io, compare: main** _to_ our **base repository: UNLV-SPFG/UNLV-SPFG.github.io, base: main** (see [Creating a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for more information).
+- You should make and verify (by [viewing locally](#Viewing-Site-Locally)) changes to the [`main`](https://github.com/UNLV-SPFG/UNLV-SPFG.github.io/tree/main) [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) of __*your*__ fork and [make a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) _from_ your **head repository: username/UNLV-SPFG.github.io, compare: main** _to_ our **base repository: UNLV-SPFG/UNLV-SPFG.github.io, base: main** (see [Creating a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for more information).
 - If you're new to Jekyll, we strongly recommend following their < 30-minute [Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) to understand its core structure and basics.
 - For theme _independent_ changes to the site's __content__ or __structure__, see Jekyll's [Docs](https://jekyllrb.com/docs/) by relevant topic.
 - This site uses [_Minimal Mistakes_](https://mmistakes.github.io/minimal-mistakes/) as its theme. See the relevant pages under ["Customization"](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) to make modifications. Similarly, for theme _dependent_ __content__ changes, see the relevant pages under ["Content"](https://mmistakes.github.io/minimal-mistakes/docs/posts/).
 
 
 ### Team
-To create a new, or modify an existing, [team member](https://unlv-spfg.github.io/team/) profile, see the [README.md](/_team/README.md) in the [`_team/`](/_team) diriectory.
+To create a new, or modify an existing, [team member](https://unlv-spfg.github.io/team/) profile, see the [README.md](/_team/README.md) in the [`_team/`](/_team) directory.
 
 
 ### News
-To create a new, or modify an existing, [news post](https://unlv-spfg.github.io/news/), see the [README.md](/_posts/README.md) in the [`_posts/`](/_posts) diriectory.
+To create a new, or modify an existing, [news post](https://unlv-spfg.github.io/news/), see the [README.md](/_posts/README.md) in the [`_posts/`](/_posts) directory.
 
 
 ### Research
-To create a new, or modify an existing, [research page](https://unlv-spfg.github.io/research/), see the [README.md](/_research/README.md) in the [`_research/`](/_research) diriectory.
+To create a new, or modify an existing, [research page](https://unlv-spfg.github.io/research/), see the [README.md](/_research/README.md) in the [`_research/`](/_research) directory.
 
 
 ## Issues & Requests
