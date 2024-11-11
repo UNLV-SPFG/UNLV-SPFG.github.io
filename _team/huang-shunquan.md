@@ -2,10 +2,10 @@
 title: "Huang, Shunquan"
 excerpt: "Graduate Assistant"
 header:
-  teaser: /assets/images/team/Shunquan.Huang.png
+  teaser: /assets/images/team/huang-shunquan.png
 sidebar:
   - title: "Position"
-    image: /assets/images/team/Shunquan.Huang.png
+    image: /assets/images/team/huang-shunquan.png
     text: "Graduate Assistant<br>
     <a href='/tags/#huang-shunquan'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
