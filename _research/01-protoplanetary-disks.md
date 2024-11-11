@@ -11,7 +11,7 @@ Only within the past several years, telescopes are powerful enough to resolve th
 A large amount of observational data has poured in recently, but little information can be extracted from these data without detailed theoretical modeling.
 We are constructing theoretical models to compare with these observations, with the final goal of understanding the planet formation process.
 
-{% include figure image_path="/assets/images/protoplanetary-disks/starformation.jpeg" caption="**Figure 1.** Diagram showing the formation of a star and planetary system from a protostellar nebula. Image Credit: Tom Greene (2001)" %}
+{% include figure image_path="/assets/images/protoplanetary-disks/starformation.jpg" caption="**Figure 1.** Diagram showing the formation of a star and planetary system from a protostellar nebula. Image Credit: Tom Greene (2001)" %}
 
 
 ## Accretion and Structure

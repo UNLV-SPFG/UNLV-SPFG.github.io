@@ -2,10 +2,10 @@
 title: "Cevallos Soto, Arturo"
 excerpt: "Graduate Assistant"
 header:
-  teaser: /assets/images/team/cevallos-soto-arturo.jpeg
+  teaser: /assets/images/team/cevallos-soto-arturo.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/cevallos-soto-arturo.jpeg
+    image: /assets/images/team/cevallos-soto-arturo.jpg
     text: "Graduate Assistant<br>
     <a href='/tags/#cevallos-soto-arturo'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"

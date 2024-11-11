@@ -2,10 +2,10 @@
 title: "Wang, Yihan"
 excerpt: "Postdoctoral Scholar"
 header:
-  teaser: /assets/images/team/wang-yihan.jpeg
+  teaser: /assets/images/team/wang-yihan.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/wang-yihan.jpeg
+    image: /assets/images/team/wang-yihan.jpg
     text: "Graduate Assistant<br>
     <a href='/tags/#wang-yihan'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"

@@ -2,10 +2,10 @@
 title: "Royer III, Robert"
 excerpt: "Graduate Assistant"
 header:
-  teaser: /assets/images/team/royer-robert.jpeg
+  teaser: /assets/images/team/royer-robert.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/royer-robert.jpeg
+    image: /assets/images/team/royer-robert.jpg
     text: "Graduate Assistant<br>
     <a href='/tags/#royer-robert'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"

@@ -2,10 +2,10 @@
 title: "Overton, Madeline"
 excerpt: "Graduate Assistant"
 header:
-  teaser: /assets/images/team/overton-madeline.jpeg
+  teaser: /assets/images/team/overton-madeline.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/overton-madeline.jpeg
+    image: /assets/images/team/overton-madeline.jpg
     text: "Graduate Assistant<br>
     <a href='/tags/#overton-madeline'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"

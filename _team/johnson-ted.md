@@ -2,10 +2,10 @@
 title: "Johnson, Ted"
 excerpt: "Graduate Assistant"
 header:
-  teaser: /assets/images/team/johnson-ted.jpeg
+  teaser: /assets/images/team/johnson-ted.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/johnson-ted.jpeg
+    image: /assets/images/team/johnson-ted.jpg
     text: "Graduate Assistant<br>
     <a href='/tags/#johnson-ted'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"

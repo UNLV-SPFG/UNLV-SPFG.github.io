@@ -2,10 +2,10 @@
 title: "Li, Min"
 excerpt: "Alum"
 header:
-  teaser: /assets/images/team/li-min.jpeg
+  teaser: /assets/images/team/li-min.jpg
 sidebar:
   - title: "Position"
-    image: /assets/images/team/li-min.jpeg
+    image: /assets/images/team/li-min.jpg
     text: "Alum"
   - title: "Research Interests"
     text: "<ul>
