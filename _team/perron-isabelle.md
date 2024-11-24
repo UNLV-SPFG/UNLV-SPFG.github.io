@@ -16,4 +16,4 @@ Isabelle Perron is a Graduate Assistant under [Jason H. Steffen](/team/steffen-j
 
 
 ## Timeline
-- __2024—present__: <a href='https://www.unlv.edu/degree/phd-astronomy' target='_blank'>Ph.D. Astronomy</a>, <a href='https://www.unlv.edu/' target='_blank'>UNLV</a>
+- __2024—present__: <a href='https://www.unlv.edu/degree/ms-astronomy' target='_blank'>M.S. in Astronomy</a>, <a href='https://www.unlv.edu/' target='_blank'>UNLV</a>
