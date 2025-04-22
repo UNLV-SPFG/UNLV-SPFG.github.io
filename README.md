@@ -66,7 +66,7 @@ To create a new, or modify an existing, [research page](https://unlv-spfg.github
 
 
 ## Issues & Requests
-Please create [issues](https://github.com/sabaronett/Zhu-web-page/issues) for any problems identified with the site or requests for changes to the theme or layout.
+Please create [issues](https://github.com/UNLV-SPFG/UNLV-SPFG.github.io/issues) for any problems identified with the site or requests for changes to the theme or layout.
 
 
 ## Sources
