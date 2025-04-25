@@ -7,6 +7,10 @@ sidebar:
   - title: "Position"
     image: /assets/images/team/overton-madeline.jpg
     text: "Graduate Assistant<br>
+    <a href='mailto:overtm2@unlv.nevada.edu'>
+      <i class='fas fa-fw fa-envelope'></i>Email</a><br> 
+    <a href='https://orcid.org/0009-0000-7649-0593' target='_blank'>
+      <i class='fab fa-fw fa-orcid'></i>ORCiD</a><br>
     <a href='/tags/#overton-madeline'><i class='fas fa-fw fa-newspaper'></i>News</a>"
   - title: "Research Interests"
     text: "<ul>
