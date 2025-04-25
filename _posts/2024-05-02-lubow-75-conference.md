@@ -2,7 +2,7 @@
 title: "50 years of Binaries and Disks: Lubow@75"
 date: 2024-05-02T08:00:00
 categories:
-  - conferences
+  - Conferences
 tags:
   - accretion disks
   - circumbinary
