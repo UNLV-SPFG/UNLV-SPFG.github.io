@@ -14,7 +14,7 @@ sidebar:
     <li> Astrophysical fluid dynamics"
 ---
 
-Zhaohuan Zhu (朱照寰) is an Associate Professor in the Department of Physics and Astronomy at the University of Nevada, Las Vegas.
+Zhaohuan Zhu (朱照寰) is a Professor in the Department of Physics and Astronomy at the University of Nevada, Las Vegas. He is also the director for Nevada Center for Astrophysics [NCFA] (https://ncfa.physics.unlv.edu/).
 He joined UNLV in 2016. Please visit his [personal website](https://www.physics.unlv.edu/~zhzhu/Home.html) for more information.
       
 ## Biography
