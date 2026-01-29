@@ -1,5 +1,5 @@
 ---
-title: "Quigley"
+title: "Quigley, Peter"
 excerpt: "Graduate Assistant"
 header:
   teaser: /assets/images/team/quigley-peter.png
