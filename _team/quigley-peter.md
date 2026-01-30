@@ -26,6 +26,7 @@ The typical problem that researchers face is that these programs are expensive: 
 
 
 ## Timeline
-- __2024—present__: <a href='https://www.unlv.edu/degree/phd-astronomy' target='_blank'>Ph.D. Astronomy</a>, <a href='https://www.unlv.edu/' target='_blank'>UNLV</a>
-- __2023—2024__: <a href='https://grad.uwo.ca/admissions/programs/program.cfm?p=13' target='_blank'>M.S. Astronomy</a>, <a href='https://www.uwo.ca/' target='_blank'>University of Western Ontario</a>
+- __2025—present__: <a href='https://www.unlv.edu/degree/phd-astronomy' target='_blank'>Ph.D. Astronomy</a>, <a href='https://www.unlv.edu/' target='_blank'>UNLV</a>
+- __2024—2025__: <a href='https://grad.uwo.ca/admissions/programs/program.cfm?p=13' target='_blank'>M.S. Astronomy</a>, <a href='https://www.uwo.ca/' target='_blank'>University of Western Ontario</a>
+- __2022—2024__: <a href='https://aquarid.physics.uwo.ca/' target='_blank'>Research Technician</a>, <a href='https://www.uwo.ca/' target='_blank'>University of Western Ontario</a>
 - __2016—2021__: <a href='https://phas.ubc.ca/undergrad-honours-physics-and-astronomy' target='_blank'>H.B.Sc. Physics and Astronomy</a>, <a href='https://www.ubc.ca/' target='_blank'>University of British Columbia</a>
