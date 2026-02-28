@@ -8,7 +8,7 @@ sidebar:
     image: /assets/images/team/baronett-stanley.jpg
     text: "Graduate Assistant<br>
     <a href='https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&fq_property=(property%3A%22refereed%22)&q=%20author%3A%22Baronett%2C%20S%22&sort=date%20desc%2C%20bibcode%20desc&p_=0' target='_blank'><i class='fas fa-fw fa-search'></i>ADS</a><br>
-    <a href='/assets/docs/team/baronett_cv.pdf' target='_blank'><i class='fas fa-fw fa-file-pdf'></i>CV</a><br>
+    <a href='https://pfitsplus.github.io/assets/docs/team/baronett_cv.pdf' target='_blank'><i class='fas fa-fw fa-file-pdf'></i>CV</a><br>
     <a href='mailto:barons2@unlv.nevada.edu'><i class='fas fa-fw fa-envelope'></i>Email</a><br>
     <a href='https://github.com/sabaronett' target='_blank'><i class='fab fa-fw fa-github'></i>GitHub</a><br>
     <a href='https://scholar.google.com/citations?user=kZ2ucF8AAAAJ' target='_blank'><i class='fas fa-fw fa-user-graduate'></i>Google Scholar</a><br>
