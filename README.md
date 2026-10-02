@@ -62,6 +62,8 @@ The application is served at `/planetsystem/`. Shunquan Huang's profile links to
 
 - `_team/huang-shunquan.md`: the YAML `sidebar` block controls the profile sidebar; the Markdown below the closing `---` controls the biography.
 - `_pages/planetsystem.html`: the website page that embeds the simulator.
+- `_pages/planetsystem-guide.md`: the online user guide at `/planetsystem/guide/`, based on the PlanetSystem project's root `README.md`. Refresh its guide content when updating the app.
+- `planetsystem/USER_GUIDE.pdf`: the release's downloadable PDF guide.
 - `planetsystem/player/`: the standalone Unity Web player, including `index.html`, `Build/`, and `TemplateData/`.
 
 To preview these pages locally, run `bundle exec jekyll serve --host 127.0.0.1 --port 4001` and open `http://127.0.0.1:4001/team/huang-shunquan/` or `http://127.0.0.1:4001/planetsystem/`.
