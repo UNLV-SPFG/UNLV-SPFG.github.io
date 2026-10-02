@@ -1,0 +1,19 @@
+---
+layout: single
+title: "PlanetSystem"
+permalink: /planetsystem/
+classes: wide
+author_profile: false
+excerpt: "An interactive planetary system simulator developed by Shunquan Huang."
+header:
+  overlay_color: false
+---
+<style>
+  .planet-player { display: block; width: 100%; height: min(75vh, 780px); min-height: 420px; border: 0; background: #231f20; }
+  .planet-links { margin: 0 0 1rem; }
+  @media (max-width: 600px) { .planet-player { height: 70vh; min-height: 320px; } }
+</style>
+<p>Simulate and visualize planetary systems directly in your browser. Developed by <a href="{{ '/team/huang-shunquan/' | relative_url }}">Shunquan Huang</a>.</p>
+<p class="planet-links">Web build v1.2.0 · <a href="{{ '/planetsystem/player/' | relative_url }}" target="_blank" rel="noopener">Open in a new tab</a></p>
+<p class="planet-links">Check the <a href="{{ '/planetsystem/guide/' | relative_url }}" target="_blank" rel="noopener">User guide</a> for usage instructions.</p>
+<iframe class="planet-player" src="{{ '/planetsystem/player/' | relative_url }}" title="PlanetSystem interactive simulation" allow="fullscreen" allowfullscreen></iframe>
