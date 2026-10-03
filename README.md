@@ -56,20 +56,6 @@ Please open an [issue](https://github.com/UNLV-SPFG/UNLV-SPFG.github.io/issues) 
 ### Team
 To create a new, or modify an existing, [team member](https://unlv-spfg.github.io/team/) profile, see the [README.md](/_team/README.md) in the [`_team/`](/_team) directory.
 
-
-### PlanetSystem
-The application is served at `/planetsystem/`. Shunquan Huang's profile links to it from both the sidebar and biography.
-
-- `_team/huang-shunquan.md`: the YAML `sidebar` block controls the profile sidebar; the Markdown below the closing `---` controls the biography.
-- `_pages/planetsystem.html`: the website page that embeds the simulator.
-- `_pages/planetsystem-guide.md`: the online user guide at `/planetsystem/guide/`, based on the PlanetSystem project's root `README.md`. Refresh its guide content when updating the app.
-- `planetsystem/USER_GUIDE.pdf`: the release's downloadable PDF guide.
-- `planetsystem/player/`: the standalone Unity Web player, including `index.html`, `Build/`, and `TemplateData/`.
-
-To preview these pages locally, run `bundle exec jekyll serve --host 127.0.0.1 --port 4001` and open `http://127.0.0.1:4001/team/huang-shunquan/` or `http://127.0.0.1:4001/planetsystem/`.
-
-The player is based on `PlanetSystemWeb.v1.2.1`. Its Brotli assets have been decompressed and the player URLs updated so it works on static hosting without custom `Content-Encoding` headers. Build assets live in `planetsystem/player/Build/v1.2.1/`; the page also versions the player URL to avoid reusing cached older builds. When replacing the build, update both version paths and keep its relative asset paths and responsive canvas styles. Use an uncompressed Unity build, or enable Unity's Decompression Fallback before exporting compressed assets.
-
 To publish updates to the group website, commit and push to your personal fork, then open a pull request against `UNLV-SPFG/UNLV-SPFG.github.io`. The group website receives the change after that pull request is merged and GitHub Pages builds successfully.
 
 
