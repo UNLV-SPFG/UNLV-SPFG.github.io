@@ -142,6 +142,14 @@ order and **Esc** always returns to edit mode.
 Switching mode keeps the current camera position. The active mode, view and keys are shown at the
 bottom left of the screen.
 
+### On-screen buttons (phones and tablets)
+
+Everything that needs a key also has a button, so the web build works on touch screens. The bottom-left
+pad holds the three modes and the six preset views, with the active ones highlighted. Each button and
+toolbar control shows its key, for example **Start (F5)**, and the first four rows of the body list
+show F1-F4. On a touch screen, tap a body to select it and drag with one finger to look around in
+free-fly. Free-fly movement (WASD/QE) and scroll zoom still need a keyboard and mouse.
+
 ### Shortcuts that work in every mode
 
 | Key | Action |

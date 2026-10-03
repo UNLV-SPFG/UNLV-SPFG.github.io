@@ -68,7 +68,7 @@ The application is served at `/planetsystem/`. Shunquan Huang's profile links to
 
 To preview these pages locally, run `bundle exec jekyll serve --host 127.0.0.1 --port 4001` and open `http://127.0.0.1:4001/team/huang-shunquan/` or `http://127.0.0.1:4001/planetsystem/`.
 
-The player is based on `PlanetSystemWeb.v1.2.0`. Its Brotli assets have been decompressed and the player URLs updated so it works on static hosting without custom `Content-Encoding` headers. When replacing the build, keep its relative asset paths and responsive canvas styles. Use an uncompressed Unity build, or enable Unity's Decompression Fallback before exporting compressed assets.
+The player is based on `PlanetSystemWeb.v1.2.1`. Its Brotli assets have been decompressed and the player URLs updated so it works on static hosting without custom `Content-Encoding` headers. Build assets live in `planetsystem/player/Build/v1.2.1/`; the page also versions the player URL to avoid reusing cached older builds. When replacing the build, update both version paths and keep its relative asset paths and responsive canvas styles. Use an uncompressed Unity build, or enable Unity's Decompression Fallback before exporting compressed assets.
 
 To publish updates to the group website, commit and push to your personal fork, then open a pull request against `UNLV-SPFG/UNLV-SPFG.github.io`. The group website receives the change after that pull request is merged and GitHub Pages builds successfully.
 
